@@ -19,11 +19,12 @@ function validator() { }
 
 function viewAll(filter, filter_spec) {
 
+    console.log(filter_spec);
     let url = "http://localhost:9000/employee/transactions/" + filter + "/" + filter_spec;
     fetch(url)
         .then(res => res.json())
         .then(res1 => {
-            console.log(res1)
+            
             if (res1.length == 0) {
                 alert(res1.message)
                 window.location.href = "viewTransactions.html";
@@ -90,12 +91,8 @@ function byDate(filter) {
 function byType(filter) {
 
     var filter_spec = document.getElementById("filter-spec3").value;
-    console.log(filter_spec)
 
     viewAll(filter, filter_spec);
-
-
-
 }
 
 function byCustomerID(filter) {

@@ -205,7 +205,7 @@ public class QuickFindDAOImpl implements QuickFindDAO {
 
             }
             if (filter == 3) {
-                preparedStatement.setString(1, filter_spec);
+                preparedStatement.setString(1, filter_spec +'%');
             }
             if (filter == 4) {
                 preparedStatement.setInt(1, Integer.parseInt(filter_spec));

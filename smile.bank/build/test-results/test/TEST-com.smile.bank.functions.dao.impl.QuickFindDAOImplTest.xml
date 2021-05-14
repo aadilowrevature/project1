@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.smile.bank.functions.dao.impl.QuickFindDAOImplTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-05-14T17:16:43" hostname="LAPTOP-CQANB9I3" time="0.003">
+  <properties/>
+  <testcase name="testFilter1()" classname="com.smile.bank.functions.dao.impl.QuickFindDAOImplTest" time="0.0"/>
+  <testcase name="testFilter2()" classname="com.smile.bank.functions.dao.impl.QuickFindDAOImplTest" time="0.0"/>
+  <testcase name="testFilter3()" classname="com.smile.bank.functions.dao.impl.QuickFindDAOImplTest" time="0.001"/>
+  <testcase name="testFilter4()" classname="com.smile.bank.functions.dao.impl.QuickFindDAOImplTest" time="0.0"/>
+  <testcase name="testFilter5()" classname="com.smile.bank.functions.dao.impl.QuickFindDAOImplTest" time="0.0"/>
+  <testcase name="testFilter6()" classname="com.smile.bank.functions.dao.impl.QuickFindDAOImplTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

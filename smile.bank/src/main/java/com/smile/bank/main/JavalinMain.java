@@ -91,10 +91,12 @@ public class JavalinMain  {
 
             try {
                 transactionsList=service.findTransactions(filter_spec,filter);
+                System.out.println(filter_spec);
+                System.out.println(filter);
                 ctx.json(transactionsList);
                 ctx.status(201);
 
-            }catch(SmileException e){
+            }catch(NumberFormatException | SmileException e){
                 ctx.status(406);
                 ctx.json(e);
             }

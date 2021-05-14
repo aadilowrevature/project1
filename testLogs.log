@@ -241,3 +241,48 @@
 {INFO} -  [com.smile.bank.log.SmileLog]   -     The column name :acc_num was not found in this ResultSet.     May-14-21 Friday EDT 12:40:55
 {INFO} -  [com.smile.bank.log.SmileLog]   -     The column name :acc_num was not found in this ResultSet.     May-14-21 Friday EDT 12:42:05
 {INFO} -  [com.smile.bank.log.SmileLog]   -     The column name :acc_num was not found in this ResultSet.     May-14-21 Friday EDT 12:43:24
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Here are the CHECKING accounts for Customer ID: 162     May-14-21 Friday EDT 12:54:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-14-21 Friday EDT 12:54:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Account Type: CHECKING | Account Number: 23 |  Balance: $0.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 12:54:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Account Type: CHECKING | Account Number: 28 |  Balance: $0.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 12:54:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Account Type: CHECKING | Account Number: 41 |  Balance: $0.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 12:54:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Account Type: CHECKING | Account Number: 47 |  Balance: $0.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 12:54:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     5) Account Type: CHECKING | Account Number: 21 |  Balance: $0.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 12:54:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     6) Account Type: CHECKING | Account Number: 22 |  Balance: $0.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 12:54:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     7) Account Type: CHECKING | Account Number: 29 |  Balance: $0.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 12:54:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     8) Account Type: CHECKING | Account Number: 6 |  Balance: $3.637978807091713E-12 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 12:54:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     9) Account Type: CHECKING | Account Number: 49 |  Balance: $0.01 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 12:54:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     10) Account Type: CHECKING | Account Number: 48 |  Balance: $0.14 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 12:54:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     11) Account Type: CHECKING | Account Number: 60 |  Balance: $1.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 12:54:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     12) Account Type: CHECKING | Account Number: 62 |  Balance: $1.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 12:54:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     13) Account Type: CHECKING | Account Number: 63 |  Balance: $1.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 12:54:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     14) Account Type: CHECKING | Account Number: 53 |  Balance: $1.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 12:54:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     15) Account Type: CHECKING | Account Number: 54 |  Balance: $1.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 12:54:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     16) Account Type: CHECKING | Account Number: 55 |  Balance: $1.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 12:54:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     17) Account Type: CHECKING | Account Number: 57 |  Balance: $1.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 12:54:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     18) Account Type: CHECKING | Account Number: 61 |  Balance: $1.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 12:54:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     19) Account Type: CHECKING | Account Number: 64 |  Balance: $1.0 | Customer ID: 162 | Account Status: Pending     May-14-21 Friday EDT 12:54:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     20) Account Type: CHECKING | Account Number: 65 |  Balance: $1.0 | Customer ID: 162 | Account Status: Pending     May-14-21 Friday EDT 12:54:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     21) Account Type: CHECKING | Account Number: 66 |  Balance: $1.0 | Customer ID: 162 | Account Status: Pending     May-14-21 Friday EDT 12:54:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     22) Account Type: CHECKING | Account Number: 67 |  Balance: $1.0 | Customer ID: 162 | Account Status: Pending     May-14-21 Friday EDT 12:54:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     23) Account Type: CHECKING | Account Number: 68 |  Balance: $1.0 | Customer ID: 162 | Account Status: Pending     May-14-21 Friday EDT 12:54:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     24) Account Type: CHECKING | Account Number: 69 |  Balance: $1.0 | Customer ID: 162 | Account Status: Pending     May-14-21 Friday EDT 12:54:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     25) Account Type: CHECKING | Account Number: 70 |  Balance: $1.0 | Customer ID: 162 | Account Status: Pending     May-14-21 Friday EDT 12:54:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     26) Account Type: CHECKING | Account Number: 71 |  Balance: $1.0 | Customer ID: 162 | Account Status: Pending     May-14-21 Friday EDT 12:54:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     27) Account Type: CHECKING | Account Number: 72 |  Balance: $1.0 | Customer ID: 162 | Account Status: Pending     May-14-21 Friday EDT 12:54:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     28) Account Type: CHECKING | Account Number: 73 |  Balance: $1.0 | Customer ID: 162 | Account Status: Pending     May-14-21 Friday EDT 12:54:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     29) Account Type: CHECKING | Account Number: 74 |  Balance: $1.0 | Customer ID: 162 | Account Status: Pending     May-14-21 Friday EDT 12:54:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     30) Account Type: CHECKING | Account Number: 75 |  Balance: $1.0 | Customer ID: 162 | Account Status: Pending     May-14-21 Friday EDT 12:54:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     31) Account Type: CHECKING | Account Number: 76 |  Balance: $1.0 | Customer ID: 162 | Account Status: Pending     May-14-21 Friday EDT 12:54:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     32) Account Type: CHECKING | Account Number: 77 |  Balance: $1.0 | Customer ID: 162 | Account Status: Pending     May-14-21 Friday EDT 12:54:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     33) Account Type: CHECKING | Account Number: 78 |  Balance: $1.0 | Customer ID: 162 | Account Status: Pending     May-14-21 Friday EDT 12:54:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     34) Account Type: CHECKING | Account Number: 79 |  Balance: $1.0 | Customer ID: 162 | Account Status: Pending     May-14-21 Friday EDT 12:54:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     35) Account Type: CHECKING | Account Number: 80 |  Balance: $1.0 | Customer ID: 162 | Account Status: Pending     May-14-21 Friday EDT 12:54:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     36) Account Type: CHECKING | Account Number: 81 |  Balance: $1.0 | Customer ID: 162 | Account Status: Pending     May-14-21 Friday EDT 12:54:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     37) Account Type: CHECKING | Account Number: 51 |  Balance: $1.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 12:54:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     38) Account Type: CHECKING | Account Number: 52 |  Balance: $1.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 12:54:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     39) Account Type: CHECKING | Account Number: 24 |  Balance: $31.5 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 12:54:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     40) Account Type: CHECKING | Account Number: 31 |  Balance: $31.5 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 12:54:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     41) Account Type: CHECKING | Account Number: 42 |  Balance: $52.5 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 12:54:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     42) Account Type: CHECKING | Account Number: 40 |  Balance: $105.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 12:54:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     43) Account Type: CHECKING | Account Number: 50 |  Balance: $9999.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 12:54:25
