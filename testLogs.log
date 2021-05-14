@@ -206,3 +206,38 @@
 {INFO} -  [com.smile.bank.log.SmileLog]   -          May-14-21 Friday EDT 08:45:35
 {INFO} -  [com.smile.bank.log.SmileLog]   -     Reason Failed: The column index is out of range: 4, number of columns: 3.     May-14-21 Friday EDT 08:46:27
 {INFO} -  [com.smile.bank.log.SmileLog]   -          May-14-21 Friday EDT 08:46:27
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Here are the CHECKING accounts for Customer ID: 162     May-14-21 Friday EDT 10:38:00
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-14-21 Friday EDT 10:38:00
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Account Type: CHECKING | Account Number: 23 |  Balance: $0.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 10:38:00
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Account Type: CHECKING | Account Number: 41 |  Balance: $0.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 10:38:00
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Account Type: CHECKING | Account Number: 47 |  Balance: $0.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 10:38:00
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Account Type: CHECKING | Account Number: 21 |  Balance: $0.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 10:38:00
+{INFO} -  [com.smile.bank.log.SmileLog]   -     5) Account Type: CHECKING | Account Number: 22 |  Balance: $0.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 10:38:00
+{INFO} -  [com.smile.bank.log.SmileLog]   -     6) Account Type: CHECKING | Account Number: 29 |  Balance: $0.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 10:38:00
+{INFO} -  [com.smile.bank.log.SmileLog]   -     7) Account Type: CHECKING | Account Number: 28 |  Balance: $0.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 10:38:00
+{INFO} -  [com.smile.bank.log.SmileLog]   -     8) Account Type: CHECKING | Account Number: 6 |  Balance: $3.637978807091713E-12 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 10:38:00
+{INFO} -  [com.smile.bank.log.SmileLog]   -     9) Account Type: CHECKING | Account Number: 49 |  Balance: $0.01 | Customer ID: 162 | Account Status: Pending     May-14-21 Friday EDT 10:38:00
+{INFO} -  [com.smile.bank.log.SmileLog]   -     10) Account Type: CHECKING | Account Number: 48 |  Balance: $0.14 | Customer ID: 162 | Account Status: Pending     May-14-21 Friday EDT 10:38:00
+{INFO} -  [com.smile.bank.log.SmileLog]   -     11) Account Type: CHECKING | Account Number: 31 |  Balance: $31.5 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 10:38:00
+{INFO} -  [com.smile.bank.log.SmileLog]   -     12) Account Type: CHECKING | Account Number: 24 |  Balance: $31.5 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 10:38:00
+{INFO} -  [com.smile.bank.log.SmileLog]   -     13) Account Type: CHECKING | Account Number: 42 |  Balance: $52.5 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 10:38:00
+{INFO} -  [com.smile.bank.log.SmileLog]   -     14) Account Type: CHECKING | Account Number: 40 |  Balance: $105.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 10:38:00
+{INFO} -  [com.smile.bank.log.SmileLog]   -     15) Account Type: CHECKING | Account Number: 50 |  Balance: $9999.0 | Customer ID: 162 | Account Status: Pending     May-14-21 Friday EDT 10:38:00
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Here are the SAVINGS accounts for Customer ID: 162     May-14-21 Friday EDT 10:38:06
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-14-21 Friday EDT 10:38:06
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Account Type: SAVINGS | Account Number: 15 |  Balance: $0.01 | Customer ID: 162 | Account Status: Pending     May-14-21 Friday EDT 10:38:06
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Account Type: SAVINGS | Account Number: 16 |  Balance: $0.01 | Customer ID: 162 | Account Status: Pending     May-14-21 Friday EDT 10:38:06
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Account Type: SAVINGS | Account Number: 13 |  Balance: $9997.96 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 10:38:06
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Account Type: SAVINGS | Account Number: 6 |  Balance: $43172.17000000002 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 10:38:06
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Reason Failed: ERROR: relation "bank_scehma.worklogs" does not exist
+  Position: 13     May-14-21 Friday EDT 12:08:42
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-14-21 Friday EDT 12:08:42
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Reason Failed: ERROR: relation "bank_scehma.worklogs" does not exist
+  Position: 13     May-14-21 Friday EDT 12:09:17
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-14-21 Friday EDT 12:09:17
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Reason Failed: ERROR: relation "bank_scehma.worklogs" does not exist
+  Position: 13     May-14-21 Friday EDT 12:09:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-14-21 Friday EDT 12:09:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     The column name :acc_num was not found in this ResultSet.     May-14-21 Friday EDT 12:40:55
+{INFO} -  [com.smile.bank.log.SmileLog]   -     The column name :acc_num was not found in this ResultSet.     May-14-21 Friday EDT 12:42:05
+{INFO} -  [com.smile.bank.log.SmileLog]   -     The column name :acc_num was not found in this ResultSet.     May-14-21 Friday EDT 12:43:24

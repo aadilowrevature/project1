@@ -3,6 +3,7 @@ package com.smile.bank.functions.service;
 import com.smile.bank.exception.SmileException;
 import com.smile.bank.model.Account;
 import com.smile.bank.model.Transactions;
+import com.smile.bank.model.Worklogs;
 
 import java.util.List;
 
@@ -16,4 +17,6 @@ public interface QuickFindService {
     public Account findAccounts(String account_type, int customer_id, int acc_num) throws SmileException;
 
     public List<Transactions> findTransactions(String filter_spec,int filter) throws SmileException;
+
+    public List<Worklogs> printWorklogs() throws SmileException;
 }

@@ -32,10 +32,9 @@ function validator() {
                 return false;
             }
             else {
-                //sessionStorage.setItem("storageEmail",email);
-                //sessionStorage.setItem("storagePwd",pwd);
+                
                 alert("Successful Account Creation")
-                window.location.href = "dashboard/dashboard.html";
+                //window.location.href = "dashboard/dashboard.html";
                 return true;
             }
         }).catch(function (response) { //runs for any error but for now should only launch if no connection

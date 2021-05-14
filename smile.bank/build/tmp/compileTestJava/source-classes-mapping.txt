@@ -1,8 +1,8 @@
 com/smile/bank/functions/service/impl/QuickFindServiceImplTest.java
  com.smile.bank.functions.service.impl.QuickFindServiceImplTest
+com/smile/bank/functions/dao/impl/QuickFindDAOImplTest.java
+ com.smile.bank.functions.dao.impl.QuickFindDAOImplTest
 com/smile/bank/functions/service/impl/NewTransactionServiceImplTest.java
  com.smile.bank.functions.service.impl.NewTransactionServiceImplTest
 com/smile/bank/functions/dao/impl/OpenAccountDAOImplTest.java
  com.smile.bank.functions.dao.impl.OpenAccountDAOImplTest
-com/smile/bank/functions/dao/impl/QuickFindDAOImplTest.java
- com.smile.bank.functions.dao.impl.QuickFindDAOImplTest

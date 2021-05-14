@@ -32,6 +32,18 @@ public class JavalinMain  {
             ctx.json(accountList);
         });
 
+        app.get("/employee/worklogs", ctx -> {
+            QuickFindService service = new QuickFindServiceImpl();
+            try {
+                List<Worklogs> workList = service.printWorklogs();
+                ctx.json(workList);
+            } catch (SmileException e){
+                ctx.status(406);
+                ctx.json(e);
+            }
+
+        });
+
         app.get("/register/employee/:name/:email/:password", ctx -> {
             RegisterEmployeeService service= new RegisterEmployeeServiceImpl();
             QuickFindService quick = new QuickFindServiceImpl();
@@ -205,14 +217,16 @@ public class JavalinMain  {
             ctx.status(201);
         });
 
-        app.get("/employee/approve/:acc_type/:id", ctx -> {
+        app.get("/employee/approve/:email/:acc_type/:id", ctx -> {
             ApproveAccountService work= new ApproveAccountServiceImpl();
             String acc_type = ctx.pathParam(":acc_type");
             int id= Integer.parseInt(ctx.pathParam(":id"));
+            String email=ctx.pathParam(":email");
+            Employee employee= new Employee();
 
             int job=0;
             try {
-                job=work.approveAccount(id, acc_type);
+                job=work.approveAccount(id, acc_type,email,employee);
             }
             catch(SmileException e){
                 ctx.json(e);
@@ -220,7 +234,7 @@ public class JavalinMain  {
             }
 
             if(job==1) {
-                ctx.json(job);
+                ctx.json(employee);
             }
             else
             {
@@ -228,13 +242,15 @@ public class JavalinMain  {
             }
         });
 
-        app.get("/employee/deny/:acc_type/:id", ctx -> {
+        app.get("/employee/deny/:email/:acc_type/:id", ctx -> {
             ApproveAccountService work= new ApproveAccountServiceImpl();
             String acc_type = ctx.pathParam(":acc_type");
             int id= Integer.parseInt(ctx.pathParam(":id"));
+            String email=ctx.pathParam(":email");
+
         int job=0;
             try {
-                job=work.denyAccount(id, acc_type);
+                job=work.denyAccount(id, acc_type, email);
             }
             catch(SmileException e){
                 ctx.json(e);

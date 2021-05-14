@@ -25,3 +25,7 @@ function viewAccounts(){
 function viewTransactions(){
     window.location.href ="../viewTransactions.html";
 }
+
+function viewLogs(){
+    window.location.href ="../viewLogs.html";
+}

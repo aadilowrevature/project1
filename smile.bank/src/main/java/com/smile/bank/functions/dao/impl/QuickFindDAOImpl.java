@@ -13,6 +13,7 @@ import com.smile.bank.log.SmileLog;
 import com.smile.bank.model.Account;
 import com.smile.bank.model.Customer;
 import com.smile.bank.model.Transactions;
+import com.smile.bank.model.Worklogs;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -245,4 +246,35 @@ public class QuickFindDAOImpl implements QuickFindDAO {
         return transactionsList;
 
     }
-}
+
+    @Override
+    public List<Worklogs> printWorklogs() throws SmileException{
+        List<Worklogs> workList = new ArrayList<>();
+        try (Connection connection = PostgresConnection.getConnection()) {
+            String sql="select * from bank_schema.worklogs";
+            PreparedStatement preparedStatement=connection.prepareStatement(sql);
+            ResultSet resultSet = preparedStatement.executeQuery();
+            while (resultSet.next()) {
+                Worklogs work = new Worklogs();
+
+                work.setAcc_num(resultSet.getInt("acc_num"));
+                work.setAccount_type(resultSet.getString("account_type"));
+                work.setName(resultSet.getString("name"));
+                work.setEmail(resultSet.getString("email"));
+                work.setStatus(resultSet.getString("status"));
+                work.setEmployee_id(resultSet.getInt("employee_id"));
+
+
+                workList.add(work);
+            }
+            if (workList.size() == 0) {
+                throw new SmileException("");
+            }
+        } catch (SQLException | ClassNotFoundException e) {
+            smile.message(e.getMessage());
+            throw new SmileException("Internal error");
+        }
+        return workList;
+        }}
+
+

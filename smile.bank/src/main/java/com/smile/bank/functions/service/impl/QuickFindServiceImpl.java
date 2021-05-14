@@ -6,6 +6,7 @@ import com.smile.bank.functions.dao.impl.QuickFindDAOImpl;
 import com.smile.bank.functions.service.QuickFindService;
 import com.smile.bank.model.Account;
 import com.smile.bank.model.Transactions;
+import com.smile.bank.model.Worklogs;
 
 import java.util.List;
 
@@ -49,4 +50,10 @@ public class QuickFindServiceImpl implements QuickFindService {
 
         return find.findTransactions(filter_spec,filter);
     }
+    public List<Worklogs> printWorklogs() throws SmileException{
+
+        return find.printWorklogs();
+    }
+
+
 }

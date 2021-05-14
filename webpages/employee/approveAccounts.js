@@ -39,7 +39,6 @@ function viewPendingAccounts(clicked) {
                 data = data + "<tr><td>" + "<button class=" + "'btn btn-outline-light bg-dark'" + "type=" + "'submit'" + " onclick=" + "approveAccount(" + element.acc_num + "," + account_type + ")" + ">Approve</button>" + "</td>"
                 data = data + "<td>" + "<button class=" + "'btn btn-outline-light bg-dark'" + "type=" + "'submit'" + " onclick=" + "denyAccount(" + element.acc_num + "," + account_type + ")" + ">Deny</button>" + "</td>"
                 data = data + "<td>" + account_type + "</td>"
-                data = data + "<td>" + account_type + "</td>"
                 data = data + "<td>" + element.acc_num + "</td>"
                 data = data + "<td>" + element.customer_id + "</td>"
                 data = data + "<td>" + element.balance + "</td></tr>"
@@ -54,11 +53,12 @@ function viewPendingAccounts(clicked) {
 }
 
 function approveAccount(acc_num, acc_type) {
-    let url = "http://localhost:9000/employee/approve/" + acc_type.value + "/" + acc_num;
+    let url = "http://localhost:9000/employee/approve/"+email+"/" + acc_type.value + "/" + acc_num;
     fetch(url)
         .then(res => res.json())
         .then(res1 => {
-            if (res1!=1) {
+            console.log(res1)
+            if (!res1) {
                 alert("Operation Failed: " + res1.message)
                 return false;
             }
@@ -78,13 +78,13 @@ function approveAccount(acc_num, acc_type) {
 }
 
 function denyAccount(acc_num, acc_type) {
-    let url = "http://localhost:9000/employee/deny/" + acc_type.value + "/" + acc_num;
+    let url = "http://localhost:9000/employee/deny/"+email+"/" + acc_type.value + "/" + acc_num;
 
 
     fetch(url)
         .then(res => res.json())
         .then(res1 => {
-            if (res1 !=1) {
+            if (!res1) {
                 alert("Operation Failed: " + res1.message)
                 return false;
             }
