@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+</html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Smile Bank: Send Money</title>
+    <link rel="stylesheet" type="text/css" href="sendMoney.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+</head>
+
+<body>
+    <div class="container-fluid p-3 bg-dark text-white">
+
+        <h1>Send Money to Any Account</h1>
+        <button class="btn btn-outline-light bg-dark" input type="submit" onclick="back()">Go Back</button>
+        <img class='rounded' height='100px' width='100px' src='../smile.gif' />
+        <button class="btn btn-outline-light bg-dark" input type="submit" onclick="logout()">Logout</button>
+        <br>
+    </div>
+
+    <div class="container-fluid p-3 bg-danger text-white">
+        <form method="get" action="" onsubmit="validator();return false" id="form1">
+            <h3>Select an Account to Send From</h3>
+            <br><br>
+            <p>Select your Account Type</p>
+            <button class="btn btn-outline-light bg-danger" type="submit" id="checking" value="checking"
+                onclick="getAccounts(this.id)">Checking</button>&nbsp;&nbsp;&nbsp;
+            <button class="btn btn-outline-light bg-danger" type="submit" id="savings" value="savings"
+                onclick="getAccounts(this.id)">Savings </button>
+            <br></br>
+            <div class="container" id="results"></div>
+            <br>
+
+            <div class="form-group">
+                <p>Select Destination Account Type</p>
+                <select name="accounts" id="acc-type-destination">
+                    <option value="checking">Checking</option>
+                    <option value="savings">Savings</option>
+                </select>
+                <br><br>
+                <label for="balance">Enter Destination Account Number</label>
+                <input id="acc_num_destination" class="form-control" input type="number" min="0" step="1" min="0"
+                    max="1000000" name="acc_num_destination" title="" required placeholder="0">
+                <br>
+                <label for="balance">How Much to Send?</label>
+                <input id="bal" class="form-control" input type="number" min="0" step="0.01" min="0" max="1000000"
+                    name="balance" title="Format must be like 20 or 20.0 or 20.00" required placeholder="0.00">
+                <p>Must be $0 or greater. Max amount is $1,000,000</p>
+            </div>
+        </form>
+    </div>
+    
+
+    <script src=sendMoney.js></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,208 @@
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Reason Failed: ResultSet not positioned properly, perhaps you need to call next.     May-13-21 Thursday EDT 19:07:54
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-13-21 Thursday EDT 19:07:54
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Reason Failed: ResultSet not positioned properly, perhaps you need to call next.     May-13-21 Thursday EDT 19:08:01
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-13-21 Thursday EDT 19:08:01
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Reason Failed: ResultSet not positioned properly, perhaps you need to call next.     May-13-21 Thursday EDT 19:08:01
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-13-21 Thursday EDT 19:08:01
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Reason Failed: ResultSet not positioned properly, perhaps you need to call next.     May-13-21 Thursday EDT 19:08:01
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-13-21 Thursday EDT 19:08:01
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Reason Failed: ResultSet not positioned properly, perhaps you need to call next.     May-13-21 Thursday EDT 19:08:53
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-13-21 Thursday EDT 19:08:53
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Reason Failed: ResultSet not positioned properly, perhaps you need to call next.     May-13-21 Thursday EDT 19:09:31
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-13-21 Thursday EDT 19:09:31
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Reason Failed: ResultSet not positioned properly, perhaps you need to call next.     May-13-21 Thursday EDT 19:10:42
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-13-21 Thursday EDT 19:10:42
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Reason Failed: ResultSet not positioned properly, perhaps you need to call next.     May-13-21 Thursday EDT 19:11:54
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-13-21 Thursday EDT 19:11:54
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Reason Failed: ResultSet not positioned properly, perhaps you need to call next.     May-13-21 Thursday EDT 19:13:19
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-13-21 Thursday EDT 19:13:19
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Reason Failed: ResultSet not positioned properly, perhaps you need to call next.     May-13-21 Thursday EDT 19:15:04
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-13-21 Thursday EDT 19:15:04
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Reason Failed: ResultSet not positioned properly, perhaps you need to call next.     May-13-21 Thursday EDT 19:19:42
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-13-21 Thursday EDT 19:19:42
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Reason Failed: ResultSet not positioned properly, perhaps you need to call next.     May-13-21 Thursday EDT 19:20:20
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-13-21 Thursday EDT 19:20:20
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Reason Failed: ResultSet not positioned properly, perhaps you need to call next.     May-13-21 Thursday EDT 19:21:00
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-13-21 Thursday EDT 19:21:00
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Reason Failed: ResultSet not positioned properly, perhaps you need to call next.     May-13-21 Thursday EDT 19:21:42
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-13-21 Thursday EDT 19:21:42
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Reason Failed: ERROR: insert or update on table "transactions" violates foreign key constraint "transactions_fk"
+  Detail: Key (customer_id)=(0) is not present in table "customers".     May-14-21 Friday EDT 00:10:46
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-14-21 Friday EDT 00:10:46
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Reason Failed: ERROR: insert or update on table "transactions" violates foreign key constraint "transactions_fk"
+  Detail: Key (customer_id)=(0) is not present in table "customers".     May-14-21 Friday EDT 00:29:19
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-14-21 Friday EDT 00:29:19
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Reason Failed: ERROR: insert or update on table "transactions" violates foreign key constraint "transactions_fk"
+  Detail: Key (customer_id)=(0) is not present in table "customers".     May-14-21 Friday EDT 00:32:21
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-14-21 Friday EDT 00:32:21
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Reason Failed: ERROR: insert or update on table "transactions" violates foreign key constraint "transactions_fk"
+  Detail: Key (customer_id)=(0) is not present in table "customers".     May-14-21 Friday EDT 00:32:23
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-14-21 Friday EDT 00:32:23
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Reason Failed: ERROR: insert or update on table "transactions" violates foreign key constraint "transactions_fk"
+  Detail: Key (customer_id)=(0) is not present in table "customers".     May-14-21 Friday EDT 00:34:19
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-14-21 Friday EDT 00:34:19
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Reason Failed: ERROR: duplicate key value violates unique constraint "customer_creds_pk"
+  Detail: Key (email)=(milk@tea.com) already exists.     May-14-21 Friday EDT 02:22:52
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-14-21 Friday EDT 02:22:52
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Reason Failed: ERROR: duplicate key value violates unique constraint "customer_creds_pk"
+  Detail: Key (email)=(milk@tea.com) already exists.     May-14-21 Friday EDT 02:24:07
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-14-21 Friday EDT 02:24:07
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Reason Failed: ERROR: duplicate key value violates unique constraint "customer_creds_pk"
+  Detail: Key (email)=(milk@tea.com) already exists.     May-14-21 Friday EDT 02:27:13
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-14-21 Friday EDT 02:27:13
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Reason Failed: ERROR: duplicate key value violates unique constraint "customer_creds_pk"
+  Detail: Key (email)=(milk@tea.com) already exists.     May-14-21 Friday EDT 02:28:41
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-14-21 Friday EDT 02:28:41
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Reason Failed: ERROR: duplicate key value violates unique constraint "customer_creds_pk"
+  Detail: Key (email)=(milk@tea.com) already exists.     May-14-21 Friday EDT 02:30:58
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-14-21 Friday EDT 02:30:58
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Reason Failed: ERROR: duplicate key value violates unique constraint "customer_creds_pk"
+  Detail: Key (email)=(milk@tea.com) already exists.     May-14-21 Friday EDT 02:31:47
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-14-21 Friday EDT 02:31:47
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Reason Failed: ERROR: duplicate key value violates unique constraint "customer_creds_pk"
+  Detail: Key (email)=(milk@tea.com) already exists.     May-14-21 Friday EDT 02:32:27
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-14-21 Friday EDT 02:32:27
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Thank you for working today!     May-14-21 Friday EDT 03:40:46
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Hourly Wage: $1.50 per hour     May-14-21 Friday EDT 03:40:46
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-14-21 Friday EDT 03:40:46
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Entering Work Mode. Approve or Deny Account?     May-14-21 Friday EDT 03:40:46
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Checking Account ID: 21 Balance: 666.0 Customer ID: 162     May-14-21 Friday EDT 03:40:46
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Approve     May-14-21 Friday EDT 03:40:46
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Deny     May-14-21 Friday EDT 03:40:46
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Exit Work Mode     May-14-21 Friday EDT 03:40:46
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Thank you for working today!     May-14-21 Friday EDT 03:43:18
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Hourly Wage: $1.50 per hour     May-14-21 Friday EDT 03:43:18
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-14-21 Friday EDT 03:43:18
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Entering Work Mode. Approve or Deny Account?     May-14-21 Friday EDT 03:43:18
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Checking Account ID: 21 Balance: 666.0 Customer ID: 162     May-14-21 Friday EDT 03:43:18
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Approve     May-14-21 Friday EDT 03:43:18
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Deny     May-14-21 Friday EDT 03:43:18
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Exit Work Mode     May-14-21 Friday EDT 03:43:18
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Thank you for working today!     May-14-21 Friday EDT 03:43:46
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Hourly Wage: $1.50 per hour     May-14-21 Friday EDT 03:43:46
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-14-21 Friday EDT 03:43:46
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Entering Work Mode. Approve or Deny Account?     May-14-21 Friday EDT 03:43:46
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Checking Account ID: 21 Balance: 666.0 Customer ID: 162     May-14-21 Friday EDT 03:43:46
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Approve     May-14-21 Friday EDT 03:43:46
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Deny     May-14-21 Friday EDT 03:43:46
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Exit Work Mode     May-14-21 Friday EDT 03:43:46
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Here are the CHECKING accounts for Customer ID: 162     May-14-21 Friday EDT 05:04:51
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-14-21 Friday EDT 05:04:51
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Account Type: CHECKING | Account Number: 47 |  Balance: $123.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:04:51
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Account Type: CHECKING | Account Number: 31 |  Balance: $123.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:04:51
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Account Type: CHECKING | Account Number: 42 |  Balance: $123.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:04:51
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Account Type: CHECKING | Account Number: 41 |  Balance: $123.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:04:51
+{INFO} -  [com.smile.bank.log.SmileLog]   -     5) Account Type: CHECKING | Account Number: 40 |  Balance: $123.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:04:51
+{INFO} -  [com.smile.bank.log.SmileLog]   -     6) Account Type: CHECKING | Account Number: 29 |  Balance: $200.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:04:51
+{INFO} -  [com.smile.bank.log.SmileLog]   -     7) Account Type: CHECKING | Account Number: 28 |  Balance: $200.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:04:51
+{INFO} -  [com.smile.bank.log.SmileLog]   -     8) Account Type: CHECKING | Account Number: 22 |  Balance: $666.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:04:51
+{INFO} -  [com.smile.bank.log.SmileLog]   -     9) Account Type: CHECKING | Account Number: 21 |  Balance: $666.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:04:51
+{INFO} -  [com.smile.bank.log.SmileLog]   -     10) Account Type: CHECKING | Account Number: 23 |  Balance: $789.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:04:51
+{INFO} -  [com.smile.bank.log.SmileLog]   -     11) Account Type: CHECKING | Account Number: 6 |  Balance: $2356.0000000000036 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:04:51
+{INFO} -  [com.smile.bank.log.SmileLog]   -     12) Account Type: CHECKING | Account Number: 24 |  Balance: $121212.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:04:51
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Here are the SAVINGS accounts for Customer ID: 162     May-14-21 Friday EDT 05:05:04
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-14-21 Friday EDT 05:05:04
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Account Type: SAVINGS | Account Number: 13 |  Balance: $10000.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:05:04
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Account Type: SAVINGS | Account Number: 6 |  Balance: $43212.13000000001 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:05:04
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Here are the CHECKING accounts for Customer ID: 162     May-14-21 Friday EDT 05:08:13
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-14-21 Friday EDT 05:08:13
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Account Type: CHECKING | Account Number: 47 |  Balance: $123.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:08:13
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Account Type: CHECKING | Account Number: 31 |  Balance: $123.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:08:13
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Account Type: CHECKING | Account Number: 42 |  Balance: $123.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:08:13
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Account Type: CHECKING | Account Number: 41 |  Balance: $123.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:08:13
+{INFO} -  [com.smile.bank.log.SmileLog]   -     5) Account Type: CHECKING | Account Number: 40 |  Balance: $123.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:08:13
+{INFO} -  [com.smile.bank.log.SmileLog]   -     6) Account Type: CHECKING | Account Number: 29 |  Balance: $200.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:08:13
+{INFO} -  [com.smile.bank.log.SmileLog]   -     7) Account Type: CHECKING | Account Number: 28 |  Balance: $200.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:08:13
+{INFO} -  [com.smile.bank.log.SmileLog]   -     8) Account Type: CHECKING | Account Number: 22 |  Balance: $666.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:08:13
+{INFO} -  [com.smile.bank.log.SmileLog]   -     9) Account Type: CHECKING | Account Number: 21 |  Balance: $666.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:08:13
+{INFO} -  [com.smile.bank.log.SmileLog]   -     10) Account Type: CHECKING | Account Number: 23 |  Balance: $789.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:08:13
+{INFO} -  [com.smile.bank.log.SmileLog]   -     11) Account Type: CHECKING | Account Number: 6 |  Balance: $2356.0000000000036 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:08:13
+{INFO} -  [com.smile.bank.log.SmileLog]   -     12) Account Type: CHECKING | Account Number: 24 |  Balance: $121212.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:08:13
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Here are the SAVINGS accounts for Customer ID: 162     May-14-21 Friday EDT 05:08:37
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-14-21 Friday EDT 05:08:37
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Account Type: SAVINGS | Account Number: 13 |  Balance: $10000.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:08:37
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Account Type: SAVINGS | Account Number: 6 |  Balance: $43212.13000000001 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:08:37
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Here are the CHECKING accounts for Customer ID: 162     May-14-21 Friday EDT 05:10:09
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-14-21 Friday EDT 05:10:09
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Account Type: CHECKING | Account Number: 47 |  Balance: $123.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:10:09
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Account Type: CHECKING | Account Number: 31 |  Balance: $123.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:10:09
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Account Type: CHECKING | Account Number: 42 |  Balance: $123.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:10:09
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Account Type: CHECKING | Account Number: 41 |  Balance: $123.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:10:09
+{INFO} -  [com.smile.bank.log.SmileLog]   -     5) Account Type: CHECKING | Account Number: 40 |  Balance: $123.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:10:09
+{INFO} -  [com.smile.bank.log.SmileLog]   -     6) Account Type: CHECKING | Account Number: 29 |  Balance: $200.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:10:09
+{INFO} -  [com.smile.bank.log.SmileLog]   -     7) Account Type: CHECKING | Account Number: 28 |  Balance: $200.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:10:09
+{INFO} -  [com.smile.bank.log.SmileLog]   -     8) Account Type: CHECKING | Account Number: 22 |  Balance: $666.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:10:09
+{INFO} -  [com.smile.bank.log.SmileLog]   -     9) Account Type: CHECKING | Account Number: 21 |  Balance: $666.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:10:09
+{INFO} -  [com.smile.bank.log.SmileLog]   -     10) Account Type: CHECKING | Account Number: 23 |  Balance: $789.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:10:09
+{INFO} -  [com.smile.bank.log.SmileLog]   -     11) Account Type: CHECKING | Account Number: 6 |  Balance: $2356.0000000000036 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:10:09
+{INFO} -  [com.smile.bank.log.SmileLog]   -     12) Account Type: CHECKING | Account Number: 24 |  Balance: $121212.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:10:09
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Here are the CHECKING accounts for Customer ID: 162     May-14-21 Friday EDT 05:11:29
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-14-21 Friday EDT 05:11:29
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Account Type: CHECKING | Account Number: 47 |  Balance: $123.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:11:29
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Account Type: CHECKING | Account Number: 31 |  Balance: $123.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:11:29
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Account Type: CHECKING | Account Number: 42 |  Balance: $123.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:11:29
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Account Type: CHECKING | Account Number: 41 |  Balance: $123.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:11:29
+{INFO} -  [com.smile.bank.log.SmileLog]   -     5) Account Type: CHECKING | Account Number: 40 |  Balance: $123.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:11:29
+{INFO} -  [com.smile.bank.log.SmileLog]   -     6) Account Type: CHECKING | Account Number: 29 |  Balance: $200.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:11:29
+{INFO} -  [com.smile.bank.log.SmileLog]   -     7) Account Type: CHECKING | Account Number: 28 |  Balance: $200.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:11:29
+{INFO} -  [com.smile.bank.log.SmileLog]   -     8) Account Type: CHECKING | Account Number: 22 |  Balance: $666.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:11:29
+{INFO} -  [com.smile.bank.log.SmileLog]   -     9) Account Type: CHECKING | Account Number: 21 |  Balance: $666.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:11:29
+{INFO} -  [com.smile.bank.log.SmileLog]   -     10) Account Type: CHECKING | Account Number: 23 |  Balance: $789.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:11:29
+{INFO} -  [com.smile.bank.log.SmileLog]   -     11) Account Type: CHECKING | Account Number: 6 |  Balance: $2356.0000000000036 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:11:29
+{INFO} -  [com.smile.bank.log.SmileLog]   -     12) Account Type: CHECKING | Account Number: 24 |  Balance: $121212.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:11:29
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Here are the CHECKING accounts for Customer ID: 162     May-14-21 Friday EDT 05:12:27
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-14-21 Friday EDT 05:12:27
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Account Type: CHECKING | Account Number: 47 |  Balance: $123.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:12:27
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Account Type: CHECKING | Account Number: 31 |  Balance: $123.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:12:27
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Account Type: CHECKING | Account Number: 42 |  Balance: $123.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:12:27
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Account Type: CHECKING | Account Number: 41 |  Balance: $123.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:12:27
+{INFO} -  [com.smile.bank.log.SmileLog]   -     5) Account Type: CHECKING | Account Number: 40 |  Balance: $123.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:12:27
+{INFO} -  [com.smile.bank.log.SmileLog]   -     6) Account Type: CHECKING | Account Number: 29 |  Balance: $200.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:12:27
+{INFO} -  [com.smile.bank.log.SmileLog]   -     7) Account Type: CHECKING | Account Number: 28 |  Balance: $200.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:12:27
+{INFO} -  [com.smile.bank.log.SmileLog]   -     8) Account Type: CHECKING | Account Number: 22 |  Balance: $666.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:12:27
+{INFO} -  [com.smile.bank.log.SmileLog]   -     9) Account Type: CHECKING | Account Number: 21 |  Balance: $666.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:12:27
+{INFO} -  [com.smile.bank.log.SmileLog]   -     10) Account Type: CHECKING | Account Number: 23 |  Balance: $789.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:12:27
+{INFO} -  [com.smile.bank.log.SmileLog]   -     11) Account Type: CHECKING | Account Number: 6 |  Balance: $2356.0000000000036 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:12:27
+{INFO} -  [com.smile.bank.log.SmileLog]   -     12) Account Type: CHECKING | Account Number: 24 |  Balance: $121212.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:12:27
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Here are the CHECKING accounts for Customer ID: 162     May-14-21 Friday EDT 05:37:53
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-14-21 Friday EDT 05:37:53
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Account Type: CHECKING | Account Number: 47 |  Balance: $123.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:37:53
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Account Type: CHECKING | Account Number: 31 |  Balance: $123.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:37:53
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Account Type: CHECKING | Account Number: 42 |  Balance: $123.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:37:53
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Account Type: CHECKING | Account Number: 41 |  Balance: $123.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:37:53
+{INFO} -  [com.smile.bank.log.SmileLog]   -     5) Account Type: CHECKING | Account Number: 40 |  Balance: $123.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:37:53
+{INFO} -  [com.smile.bank.log.SmileLog]   -     6) Account Type: CHECKING | Account Number: 29 |  Balance: $200.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:37:53
+{INFO} -  [com.smile.bank.log.SmileLog]   -     7) Account Type: CHECKING | Account Number: 28 |  Balance: $200.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:37:53
+{INFO} -  [com.smile.bank.log.SmileLog]   -     8) Account Type: CHECKING | Account Number: 22 |  Balance: $666.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:37:53
+{INFO} -  [com.smile.bank.log.SmileLog]   -     9) Account Type: CHECKING | Account Number: 21 |  Balance: $666.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:37:53
+{INFO} -  [com.smile.bank.log.SmileLog]   -     10) Account Type: CHECKING | Account Number: 23 |  Balance: $789.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:37:53
+{INFO} -  [com.smile.bank.log.SmileLog]   -     11) Account Type: CHECKING | Account Number: 6 |  Balance: $2356.0000000000036 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:37:53
+{INFO} -  [com.smile.bank.log.SmileLog]   -     12) Account Type: CHECKING | Account Number: 24 |  Balance: $121212.0 | Customer ID: 162 | Account Status: Approved     May-14-21 Friday EDT 05:37:53
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Invalid Date Entered     May-14-21 Friday EDT 07:02:48
+{INFO} -  [com.smile.bank.log.SmileLog]   -     No value specified for parameter 1.     May-14-21 Friday EDT 07:02:48
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Invalid Date Entered     May-14-21 Friday EDT 07:03:37
+{INFO} -  [com.smile.bank.log.SmileLog]   -     No value specified for parameter 1.     May-14-21 Friday EDT 07:03:37
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Invalid Date Entered     May-14-21 Friday EDT 07:04:16
+{INFO} -  [com.smile.bank.log.SmileLog]   -     No value specified for parameter 1.     May-14-21 Friday EDT 07:04:16
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Reason Failed: ERROR: relation "bank_schema.employee" does not exist
+  Position: 13     May-14-21 Friday EDT 08:31:15
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-14-21 Friday EDT 08:31:15
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Reason Failed: ERROR: column "name" of relation "employees" does not exist
+  Position: 35     May-14-21 Friday EDT 08:32:58
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-14-21 Friday EDT 08:32:58
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Reason Failed: ERROR: null value in column "employee_id" violates not-null constraint
+  Detail: Failing row contains (Malak Vosh, null, volume@max.com).     May-14-21 Friday EDT 08:33:35
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-14-21 Friday EDT 08:33:35
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Reason Failed: Bad value for type int : volume@max.com     May-14-21 Friday EDT 08:39:21
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-14-21 Friday EDT 08:39:21
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Reason Failed: Bad value for type int : volume@max.com     May-14-21 Friday EDT 08:41:03
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-14-21 Friday EDT 08:41:03
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Reason Failed: ERROR: null value in column "employee_id" violates not-null constraint
+  Detail: Failing row contains (Malak Vosh, null, volume@max.com).     May-14-21 Friday EDT 08:44:31
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-14-21 Friday EDT 08:44:31
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Reason Failed: The column name RETURN_GENERATED_KEYS was not found in this ResultSet.     May-14-21 Friday EDT 08:45:01
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-14-21 Friday EDT 08:45:01
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Reason Failed: The column name customer_id was not found in this ResultSet.     May-14-21 Friday EDT 08:45:35
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-14-21 Friday EDT 08:45:35
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Reason Failed: The column index is out of range: 4, number of columns: 3.     May-14-21 Friday EDT 08:46:27
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-14-21 Friday EDT 08:46:27

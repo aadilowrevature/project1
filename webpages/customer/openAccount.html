@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en"></html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Smile Bank: Open an Account</title>
+    <link rel="stylesheet" type="text/css" href="openAccount.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+</head>
+<body>
+    <div class="container-fluid p-3 bg-dark text-white">
+
+        <h1>Open a Checking or Savings Account Today!</h1>
+        <button class="btn btn-outline-light bg-dark" input type="submit" onclick="back()">Go Back</button>
+        <img class='rounded' height='100px' width='100px' src='../smile.gif' />
+        <button class="btn btn-outline-light bg-dark" input type="submit" onclick="logout()">Logout</button>
+        <br>
+    </div>
+
+    <div class="container-fluid p-3 bg-danger text-white">
+        <h3>Please fill out this Form.</h3>
+        <h5>Please note all New Accounts must be Manually Approved by Employee </h5>
+        <br><br>
+        <form method="get" action="" onsubmit="validator();return false" id="form1">
+                
+            <div class="form-group">
+                <p>Please select an Account Type</p>
+                <select name="accounts" id="acc-type">
+                    <option value="checking">Checking</option>
+                    <option value="savings">Savings</option>
+                  </select>
+                <br><br>
+                <label for="balance">Enter a Starting Balance</label>
+                <input id="bal" class="form-control" input type="number" min="0" step="0.01" min ="0" max="1000000"  name="balance" 
+                    title="Format must be like 20 or 20.0 or 20.00" required placeholder="0.00">
+                    <p>Must be $0 or greater. Max amount is $1,000,000</p>
+            </div>
+            <br>
+            <button class="btn btn-outline-light bg-danger" form="form1" value="Submit">Submit & Create Account</button>
+        </form>
+
+    </div>
+    
+<script src=openAccount.js></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+</html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Smile Bank: Withdraw or Deposit</title>
+    <link rel="stylesheet" type="text/css" href="withdraw.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+</head>
+
+<body>
+    <div class="container-fluid p-3 bg-dark text-white">
+
+        <h1>Withdraw or Deposit from an Account</h1>
+        <button class="btn btn-outline-light bg-dark" input type="submit" onclick="back()">Go Back</button>
+        <img class='rounded' height='100px' width='100px' src='../smile.gif' />
+        <button class="btn btn-outline-light bg-dark" input type="submit" onclick="logout()">Logout</button>
+        <br>
+    </div>
+
+    <div class="container-fluid p-3 bg-danger text-white">
+        <form method="get" action="" onsubmit="validator();return false" id="form1">
+            <h3>Please Select an Account</h3>
+            <br><br>
+            <p>Please select an Account Type</p>
+            <button class="btn btn-outline-light bg-danger" type="submit" id="checking" value="checking"
+                onclick="getAccounts(this.id)">Checking</button>&nbsp;&nbsp;&nbsp;
+            <button class="btn btn-outline-light bg-danger" type="submit" id="savings" value="savings"
+                onclick="getAccounts(this.id)">Savings </button>
+            <br></br>
+            <div class="container" id="results"></div>
+            <br>
+
+
+            <div class="form-group">
+                <label for="balance">Enter Amount</label>
+                <input id="bal" class="form-control" input type="number" min="0" step="0.01" min="0" max="1000000"
+                    name="balance" title="Format must be like 20 or 20.0 or 20.00" required placeholder="0.00">
+                <p>Must be greater than $0. Max amount is $1,000,000</p>
+            </div>
+        </form>
+    </div>
+
+
+
+    <script src=withdraw.js></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+
+</html>

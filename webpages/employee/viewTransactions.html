@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+</html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Smile Bank Employee</title>
+    <link rel="stylesheet" type="text/css" href="viewTransactions.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+</head>
+
+<body>
+    <div class="container-fluid p-3 bg-dark text-white">
+
+        <h1>Transaction Filter</h1>
+        <p>Wage: $0.75 per Hour</p>
+        <button class="btn btn-outline-light bg-dark" input type="submit" onclick="back()">Go Back</button>
+        <img class='rounded' height='100px' width='100px' src='../smile.gif' />
+        <button class="btn btn-outline-light bg-dark" input type="submit" onclick="logout()">Logout</button>
+        <br>
+
+    </div>
+
+    <div class="container-fluid p-3 bg-warning text-white">
+
+
+
+        <br><br>
+        <form method="get" action="" onsubmit="return false" id="form1">
+            <h3>Fill the Filter Spec then Press Button to Filter Transactions</h3>
+
+            <br><br>
+            <button class="btn btn-outline-light bg-dark" id="1" value="1" input type="submit"
+                onclick="viewAll(this.id)">View All</button>
+                <br><br>
+
+            <div class="form-group">
+                <label for="filter-spec">Filter Specification</label>
+                <input id="filter-spec2" class="form-control" type="text" name="filter-spec" placeholder="YYYY-MM-DD">
+                <p>Date Must Be: YYYY-MM-DD</p>
+                <button class="btn btn-outline-light bg-dark" id="2" value="2" input type="submit"
+                    onclick="byDate(this.id)">View By Date</button>
+            </div>
+            <br><br>
+
+            <div class="form-group">
+                <select name="accounts" id="filter-spec3">
+                    
+                    <option value="Withdrawl">Withdraw</option>
+                    <option value="Deposit">Deposit</option>
+                    
+                </select>
+                <br><br>
+                <button class="btn btn-outline-light bg-dark" id="3" value="3" input type="submit"
+                    onclick="byType(this.id)">View By Type</button>
+            </div>
+            <br><br>
+
+            <div class="form-group">
+                <label for="filter-spec">Filter Specification</label>
+                <input id="filter-spec4" class="form-control" type="text" name="filter-spec" placeholder="Customer ID">
+                <p>Customer ID must be a Whole Number Greater Than 0</p>
+                <button class="btn btn-outline-light bg-dark" id="4" value="4" input type="submit"
+                    onclick="byCustomerID(this.id)">View By Customer ID</button>
+            </div>
+            <br>
+
+
+            <div class="form-group">
+                <label for="filter-spec">Filter Specification</label>
+                <input id="filter-spec5" class="form-control" type="text" name="filter-spec"
+                    placeholder="Account Number">
+                <p>Account Number must be a Whole Number Greater Than 0</p>
+                <button class="btn btn-outline-light bg-dark" id="5" value="5" input type="submit"
+                    onclick="byAccountNumber(this.id)">View By Account Number</button>
+            </div>
+            <br>
+
+            <div class="form-group">
+                <label for="filter-spec">Filter Specification</label>
+                <input id="filter-spec6" class="form-control" type="text" name="filter-spec" placeholder="Name">
+                <p>Customer Name must only be Letters</p>
+                <button class="btn btn-outline-light bg-dark" id="6" value="6" input type="submit"
+                    onclick="byName(this.id)">View By Customer Name</button>
+            </div>
+            <br>
+
+        </form>
+        <div class="container" id="results"></div>
+
+    </div>
+
+    <script src=viewTransactions.js></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+
+</html>

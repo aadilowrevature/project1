@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+</html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Smile Bank: Create an Account</title>
+    <link rel="stylesheet" type="text/css" href="register.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+</head>
+
+<body>
+    <div class="container-fluid p-3 bg-dark text-white">
+
+        <h1>Create a Customer Login for a Smile Bank Account</h1>
+        <button class="btn btn-outline-light bg-dark" input type="submit" onclick="back()">Go Back</button>
+        <img class='rounded' height='100px' width='100px' src='../../smile.gif' />
+        <br>
+    </div>
+
+    <div class="container-fluid p-3 bg-danger text-white">
+        <h3>Please fill out this Form.</h3>
+        <br><br>
+        <form method="get" action="" onsubmit="validator();return false" id="form1">
+
+            <div class="form-group">
+
+                <label for="first-name">Enter Your First Name</label>
+                <input id="first-name" class="form-control" input type="text" name="first-name"
+                    pattern="([A-Za-z]{2,20})" title="Enter Only Letters. Minimum 2 Letters. No Spaces." required
+                    placeholder="First Name">
+                <br>
+
+                <label for="last-name">Enter Your Last Name</label>
+                <input id="last-name" class="form-control" input type="text" name="last-name" pattern="([A-Za-z]{2,20})"
+                    title="Enter Only Letters. Minimum 2 Letters. No Spaces." required placeholder="Last Name">
+                    <br>
+
+                <label for="ssn">Enter Your SSN</label>
+                <input id="ssn" class="form-control" input type="password" name="last-name" pattern="([0-9]{9})"
+                    title="SSN is a 9 Digit Number" required placeholder="SSN">
+                    <p>SSN is a 9 Digit Number</p>
+                    <br>
+
+                <label for="email">Enter Your Email</label>
+                <input id="email" class="form-control" input type="email" name="email" pattern="[^ ]{1,15}@[^ ]{3,14}"
+                    title="Enter A Valid Email" required placeholder="Email">
+                    <br>
+
+                <label for="pwd">Create a Password</label>
+                <input id="pwd" class="form-control" input type="password" name="pwd" pattern="([^ ]{8,16})"
+                    title="8-16 characters no spaces" required placeholder="Password">
+                <p>Password must be 8-16 characters. No spaces allowed.</p>
+
+            </div>
+            <br>
+            <button class="btn btn-outline-light bg-danger" form="form1" value="Submit">Submit & Create Account</button>
+        </form>
+
+    </div>
+
+    <script src=register.js></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+
+</html>

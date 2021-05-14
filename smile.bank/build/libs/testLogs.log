@@ -1,0 +1,692 @@
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Hello! Welcome to Smile Bank!     May-10-21 Monday EDT 17:33:31
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:33:31
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Please Login to your Account or Register!     May-10-21 Monday EDT 17:33:31
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:33:31
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Employee Login     May-10-21 Monday EDT 17:33:31
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Customer Login     May-10-21 Monday EDT 17:33:31
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Register for an Account     May-10-21 Monday EDT 17:33:31
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Exit App     May-10-21 Monday EDT 17:33:31
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:33:31
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Type and enter the number for your selection     May-10-21 Monday EDT 17:33:31
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:33:31
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Awaiting Your Response:     May-10-21 Monday EDT 17:33:31
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Hello! Welcome to Smile Bank!     May-10-21 Monday EDT 17:35:13
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:35:13
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Please Login to your Account or Register!     May-10-21 Monday EDT 17:35:13
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:35:13
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Employee Login     May-10-21 Monday EDT 17:35:13
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Customer Login     May-10-21 Monday EDT 17:35:13
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Register for an Account     May-10-21 Monday EDT 17:35:13
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Exit App     May-10-21 Monday EDT 17:35:13
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:35:13
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Type and enter the number for your selection     May-10-21 Monday EDT 17:35:13
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:35:13
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Awaiting Your Response:     May-10-21 Monday EDT 17:35:13
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Thank You for using Smile Bank! Goodbye!     May-10-21 Monday EDT 17:35:18
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Hello! Welcome to Smile Bank!     May-10-21 Monday EDT 17:37:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:37:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Please Login to your Account or Register!     May-10-21 Monday EDT 17:37:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:37:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Employee Login     May-10-21 Monday EDT 17:37:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Customer Login     May-10-21 Monday EDT 17:37:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Register for an Account     May-10-21 Monday EDT 17:37:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Exit App     May-10-21 Monday EDT 17:37:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:37:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Type and enter the number for your selection     May-10-21 Monday EDT 17:37:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:37:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Awaiting Your Response:     May-10-21 Monday EDT 17:37:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Thank You for using Smile Bank! Goodbye!     May-10-21 Monday EDT 17:37:31
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Hello! Welcome to Smile Bank!     May-10-21 Monday EDT 17:38:45
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:38:45
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Please Login to your Account or Register!     May-10-21 Monday EDT 17:38:45
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:38:45
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Employee Login     May-10-21 Monday EDT 17:38:45
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Customer Login     May-10-21 Monday EDT 17:38:45
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Register for an Account     May-10-21 Monday EDT 17:38:45
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Exit App     May-10-21 Monday EDT 17:38:45
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:38:45
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Type and enter the number for your selection     May-10-21 Monday EDT 17:38:45
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:38:45
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Awaiting Your Response:     May-10-21 Monday EDT 17:38:45
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Hello! Welcome to Smile Bank!     May-10-21 Monday EDT 17:39:15
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:39:15
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Please Login to your Account or Register!     May-10-21 Monday EDT 17:39:15
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:39:15
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Employee Login     May-10-21 Monday EDT 17:39:15
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Customer Login     May-10-21 Monday EDT 17:39:15
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Register for an Account     May-10-21 Monday EDT 17:39:15
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Exit App     May-10-21 Monday EDT 17:39:15
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:39:15
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Type and enter the number for your selection     May-10-21 Monday EDT 17:39:15
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:39:15
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Awaiting Your Response:     May-10-21 Monday EDT 17:39:15
+{ERROR} -  [com.smile.bank.log.SmileLog]   -     Error, Invalid Selction. Please Try Again:      May-10-21 Monday EDT 17:39:23
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:39:23
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Please Login to your Account or Register!     May-10-21 Monday EDT 17:39:23
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:39:23
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Employee Login     May-10-21 Monday EDT 17:39:23
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Customer Login     May-10-21 Monday EDT 17:39:23
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Register for an Account     May-10-21 Monday EDT 17:39:23
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Exit App     May-10-21 Monday EDT 17:39:23
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:39:23
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Type and enter the number for your selection     May-10-21 Monday EDT 17:39:23
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:39:23
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Awaiting Your Response:     May-10-21 Monday EDT 17:39:23
+{ERROR} -  [com.smile.bank.log.SmileLog]   -     Error, Invalid Selction. Please Try Again:      May-10-21 Monday EDT 17:41:36
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:41:36
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Please Login to your Account or Register!     May-10-21 Monday EDT 17:41:36
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:41:36
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Employee Login     May-10-21 Monday EDT 17:41:36
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Customer Login     May-10-21 Monday EDT 17:41:36
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Register for an Account     May-10-21 Monday EDT 17:41:36
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Exit App     May-10-21 Monday EDT 17:41:36
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:41:36
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Type and enter the number for your selection     May-10-21 Monday EDT 17:41:36
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:41:36
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Awaiting Your Response:     May-10-21 Monday EDT 17:41:36
+{ERROR} -  [com.smile.bank.log.SmileLog]   -     Error, Invalid Selction. Please Try Again:      May-10-21 Monday EDT 17:41:52
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:41:52
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Please Login to your Account or Register!     May-10-21 Monday EDT 17:41:52
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:41:52
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Employee Login     May-10-21 Monday EDT 17:41:52
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Customer Login     May-10-21 Monday EDT 17:41:52
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Register for an Account     May-10-21 Monday EDT 17:41:52
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Exit App     May-10-21 Monday EDT 17:41:52
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:41:52
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Type and enter the number for your selection     May-10-21 Monday EDT 17:41:52
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:41:52
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Awaiting Your Response:     May-10-21 Monday EDT 17:41:52
+{ERROR} -  [com.smile.bank.log.SmileLog]   -     Error, Invalid Selction. Please Try Again:      May-10-21 Monday EDT 17:41:58
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:41:58
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Please Login to your Account or Register!     May-10-21 Monday EDT 17:41:58
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:41:58
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Employee Login     May-10-21 Monday EDT 17:41:58
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Customer Login     May-10-21 Monday EDT 17:41:58
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Register for an Account     May-10-21 Monday EDT 17:41:58
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Exit App     May-10-21 Monday EDT 17:41:58
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:41:58
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Type and enter the number for your selection     May-10-21 Monday EDT 17:41:58
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:41:58
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Awaiting Your Response:     May-10-21 Monday EDT 17:41:58
+{ERROR} -  [com.smile.bank.log.SmileLog]   -     Error, Invalid Selction. Please Try Again:      May-10-21 Monday EDT 17:42:03
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:03
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Please Login to your Account or Register!     May-10-21 Monday EDT 17:42:03
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:03
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Employee Login     May-10-21 Monday EDT 17:42:03
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Customer Login     May-10-21 Monday EDT 17:42:03
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Register for an Account     May-10-21 Monday EDT 17:42:03
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Exit App     May-10-21 Monday EDT 17:42:03
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:03
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Type and enter the number for your selection     May-10-21 Monday EDT 17:42:03
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:03
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Awaiting Your Response:     May-10-21 Monday EDT 17:42:03
+{ERROR} -  [com.smile.bank.log.SmileLog]   -     Error, Invalid Selction. Please Try Again:      May-10-21 Monday EDT 17:42:06
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:06
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Please Login to your Account or Register!     May-10-21 Monday EDT 17:42:06
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:06
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Employee Login     May-10-21 Monday EDT 17:42:06
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Customer Login     May-10-21 Monday EDT 17:42:06
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Register for an Account     May-10-21 Monday EDT 17:42:06
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Exit App     May-10-21 Monday EDT 17:42:06
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:06
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Type and enter the number for your selection     May-10-21 Monday EDT 17:42:06
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:06
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Awaiting Your Response:     May-10-21 Monday EDT 17:42:06
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Thank You for using Smile Bank! Goodbye!     May-10-21 Monday EDT 17:42:08
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Hello! Welcome to Smile Bank!     May-10-21 Monday EDT 17:42:10
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:10
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Please Login to your Account or Register!     May-10-21 Monday EDT 17:42:10
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:10
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Employee Login     May-10-21 Monday EDT 17:42:10
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Customer Login     May-10-21 Monday EDT 17:42:10
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Register for an Account     May-10-21 Monday EDT 17:42:10
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Exit App     May-10-21 Monday EDT 17:42:10
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:10
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Type and enter the number for your selection     May-10-21 Monday EDT 17:42:10
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:10
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Awaiting Your Response:     May-10-21 Monday EDT 17:42:10
+{ERROR} -  [com.smile.bank.log.SmileLog]   -     Error, Invalid Selction. Please Try Again:      May-10-21 Monday EDT 17:42:10
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:10
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Please Login to your Account or Register!     May-10-21 Monday EDT 17:42:10
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:10
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Employee Login     May-10-21 Monday EDT 17:42:10
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Customer Login     May-10-21 Monday EDT 17:42:10
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Register for an Account     May-10-21 Monday EDT 17:42:10
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Exit App     May-10-21 Monday EDT 17:42:10
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:10
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Type and enter the number for your selection     May-10-21 Monday EDT 17:42:10
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:10
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Awaiting Your Response:     May-10-21 Monday EDT 17:42:10
+{ERROR} -  [com.smile.bank.log.SmileLog]   -     Error, Invalid Selction. Please Try Again:      May-10-21 Monday EDT 17:42:21
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:21
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Please Login to your Account or Register!     May-10-21 Monday EDT 17:42:21
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:21
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Employee Login     May-10-21 Monday EDT 17:42:21
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Customer Login     May-10-21 Monday EDT 17:42:21
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Register for an Account     May-10-21 Monday EDT 17:42:21
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Exit App     May-10-21 Monday EDT 17:42:21
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:21
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Type and enter the number for your selection     May-10-21 Monday EDT 17:42:21
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:21
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Awaiting Your Response:     May-10-21 Monday EDT 17:42:21
+{ERROR} -  [com.smile.bank.log.SmileLog]   -     Error, Invalid Selction. Please Try Again:      May-10-21 Monday EDT 17:42:24
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:24
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Please Login to your Account or Register!     May-10-21 Monday EDT 17:42:24
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:24
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Employee Login     May-10-21 Monday EDT 17:42:24
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Customer Login     May-10-21 Monday EDT 17:42:24
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Register for an Account     May-10-21 Monday EDT 17:42:24
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Exit App     May-10-21 Monday EDT 17:42:24
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:24
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Type and enter the number for your selection     May-10-21 Monday EDT 17:42:24
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:24
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Awaiting Your Response:     May-10-21 Monday EDT 17:42:24
+{ERROR} -  [com.smile.bank.log.SmileLog]   -     Error, Invalid Selction. Please Try Again:      May-10-21 Monday EDT 17:42:26
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:26
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Please Login to your Account or Register!     May-10-21 Monday EDT 17:42:26
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:26
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Employee Login     May-10-21 Monday EDT 17:42:26
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Customer Login     May-10-21 Monday EDT 17:42:26
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Register for an Account     May-10-21 Monday EDT 17:42:26
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Exit App     May-10-21 Monday EDT 17:42:26
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:26
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Type and enter the number for your selection     May-10-21 Monday EDT 17:42:26
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:26
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Awaiting Your Response:     May-10-21 Monday EDT 17:42:26
+{ERROR} -  [com.smile.bank.log.SmileLog]   -     Error, Invalid Selction. Please Try Again:      May-10-21 Monday EDT 17:42:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Please Login to your Account or Register!     May-10-21 Monday EDT 17:42:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Employee Login     May-10-21 Monday EDT 17:42:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Customer Login     May-10-21 Monday EDT 17:42:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Register for an Account     May-10-21 Monday EDT 17:42:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Exit App     May-10-21 Monday EDT 17:42:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Type and enter the number for your selection     May-10-21 Monday EDT 17:42:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Awaiting Your Response:     May-10-21 Monday EDT 17:42:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Thank You for using Smile Bank! Goodbye!     May-10-21 Monday EDT 17:42:30
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Hello! Welcome to Smile Bank!     May-10-21 Monday EDT 17:42:33
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:33
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Please Login to your Account or Register!     May-10-21 Monday EDT 17:42:33
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:33
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Employee Login     May-10-21 Monday EDT 17:42:33
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Customer Login     May-10-21 Monday EDT 17:42:33
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Register for an Account     May-10-21 Monday EDT 17:42:33
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Exit App     May-10-21 Monday EDT 17:42:33
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:33
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Type and enter the number for your selection     May-10-21 Monday EDT 17:42:33
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:33
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Awaiting Your Response:     May-10-21 Monday EDT 17:42:33
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Please Login with your Credentials     May-10-21 Monday EDT 17:42:35
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:35
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Enter your Email:      May-10-21 Monday EDT 17:42:35
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Enter your Password:      May-10-21 Monday EDT 17:42:39
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Login Failed!     May-10-21 Monday EDT 17:42:42
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Reason Failed: milk123 is not a valid Password.     May-10-21 Monday EDT 17:42:42
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:42
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:42
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Please Login to your Account or Register!     May-10-21 Monday EDT 17:42:42
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:42
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Employee Login     May-10-21 Monday EDT 17:42:42
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Customer Login     May-10-21 Monday EDT 17:42:42
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Register for an Account     May-10-21 Monday EDT 17:42:42
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Exit App     May-10-21 Monday EDT 17:42:42
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:42
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Type and enter the number for your selection     May-10-21 Monday EDT 17:42:42
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:42
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Awaiting Your Response:     May-10-21 Monday EDT 17:42:42
+{ERROR} -  [com.smile.bank.log.SmileLog]   -     Error, Invalid Selction. Please Try Again:      May-10-21 Monday EDT 17:42:54
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:54
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Please Login to your Account or Register!     May-10-21 Monday EDT 17:42:54
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:54
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Employee Login     May-10-21 Monday EDT 17:42:54
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Customer Login     May-10-21 Monday EDT 17:42:54
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Register for an Account     May-10-21 Monday EDT 17:42:54
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Exit App     May-10-21 Monday EDT 17:42:54
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:54
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Type and enter the number for your selection     May-10-21 Monday EDT 17:42:54
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:54
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Awaiting Your Response:     May-10-21 Monday EDT 17:42:54
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Please Login with your Credentials     May-10-21 Monday EDT 17:42:55
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:42:55
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Enter your Email:      May-10-21 Monday EDT 17:42:55
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Enter your Password:      May-10-21 Monday EDT 17:42:58
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Login Success!     May-10-21 Monday EDT 17:43:02
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Welcome! Please make a selection     May-10-21 Monday EDT 17:43:02
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:43:02
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Work: Approve or Deny New Accounts     May-10-21 Monday EDT 17:43:02
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) View Account by ID     May-10-21 Monday EDT 17:43:02
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) View Logs     May-10-21 Monday EDT 17:43:02
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Logout     May-10-21 Monday EDT 17:43:02
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Will you be Approving/Denying Checking or Savings?     May-10-21 Monday EDT 17:43:08
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Checking     May-10-21 Monday EDT 17:43:08
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Savings     May-10-21 Monday EDT 17:43:08
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Exit     May-10-21 Monday EDT 17:43:08
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Thank you for working today!     May-10-21 Monday EDT 17:43:13
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Hourly Wage: $1.50 per hour     May-10-21 Monday EDT 17:43:13
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:43:13
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Entering Work Mode. Approve or Deny Account?     May-10-21 Monday EDT 17:43:13
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Checking Account ID: 17 Balance: 10.0 Customer ID: 162     May-10-21 Monday EDT 17:43:13
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Approve     May-10-21 Monday EDT 17:43:13
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Deny     May-10-21 Monday EDT 17:43:13
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Exit Work Mode     May-10-21 Monday EDT 17:43:13
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Will you be Approving/Denying Checking or Savings?     May-10-21 Monday EDT 17:43:21
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Checking     May-10-21 Monday EDT 17:43:21
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Savings     May-10-21 Monday EDT 17:43:21
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Exit     May-10-21 Monday EDT 17:43:21
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Thank you for working today!     May-10-21 Monday EDT 17:43:22
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Hourly Wage: $1.50 per hour     May-10-21 Monday EDT 17:43:22
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:43:22
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Entering Work Mode. Approve or Deny Account?     May-10-21 Monday EDT 17:43:22
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Checking Account ID: 18 Balance: 10.0 Customer ID: 162     May-10-21 Monday EDT 17:43:22
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Approve     May-10-21 Monday EDT 17:43:22
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Deny     May-10-21 Monday EDT 17:43:22
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Exit Work Mode     May-10-21 Monday EDT 17:43:22
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Will you be Approving/Denying Checking or Savings?     May-10-21 Monday EDT 17:43:23
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Checking     May-10-21 Monday EDT 17:43:23
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Savings     May-10-21 Monday EDT 17:43:23
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Exit     May-10-21 Monday EDT 17:43:23
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Exiting Work     May-10-21 Monday EDT 17:43:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:43:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Welcome! Please make a selection     May-10-21 Monday EDT 17:43:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:43:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Work: Approve or Deny New Accounts     May-10-21 Monday EDT 17:43:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) View Account by ID     May-10-21 Monday EDT 17:43:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) View Logs     May-10-21 Monday EDT 17:43:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Logout     May-10-21 Monday EDT 17:43:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:43:26
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Filter Transaction Logs By Your Choice     May-10-21 Monday EDT 17:43:26
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) View All     May-10-21 Monday EDT 17:43:26
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) View By Date     May-10-21 Monday EDT 17:43:26
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) View By Type     May-10-21 Monday EDT 17:43:26
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) View By Customer ID     May-10-21 Monday EDT 17:43:26
+{INFO} -  [com.smile.bank.log.SmileLog]   -     5) View By Account Number     May-10-21 Monday EDT 17:43:26
+{INFO} -  [com.smile.bank.log.SmileLog]   -     6) View By Customer Name     May-10-21 Monday EDT 17:43:26
+{INFO} -  [com.smile.bank.log.SmileLog]   -     7) Exit     May-10-21 Monday EDT 17:43:26
+{INFO} -  [com.smile.bank.log.SmileLog]   -     List of Transactions     May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Transactions{, name='null, acc_num=6, account_type='checking', transaction_type='Deposit', amount=10.0, transaction_num=19, timestamp='2021-04-27 23:13:50'customer_id=162'}     May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Transactions{, name='null, acc_num=6, account_type='checking', transaction_type='Deposit', amount=10.0, transaction_num=20, timestamp='2021-04-27 23:13:59'customer_id=162'}     May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Transactions{, name='null, acc_num=6, account_type='checking', transaction_type='Withdrawl', amount=100.0, transaction_num=21, timestamp='2021-04-27 23:15:56'customer_id=162'}     May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Transactions{, name='null, acc_num=6, account_type='savings', transaction_type='Withdrawl', amount=10.0, transaction_num=22, timestamp='2021-04-27 23:16:31'customer_id=162'}     May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     5) Transactions{, name='null, acc_num=6, account_type='checking', transaction_type='Deposit', amount=100.0, transaction_num=23, timestamp='2021-04-27 23:17:42'customer_id=162'}     May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     6) Transactions{, name='null, acc_num=6, account_type='savings', transaction_type='Deposit', amount=200.0, transaction_num=24, timestamp='2021-04-27 23:18:02'customer_id=162'}     May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     7) Transactions{, name='null, acc_num=6, account_type='checking', transaction_type='Deposit', amount=10000.0, transaction_num=25, timestamp='2021-04-27 23:20:25'customer_id=162'}     May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     8) Transactions{, name='null, acc_num=6, account_type='checking', transaction_type='Deposit', amount=500000.0, transaction_num=26, timestamp='2021-04-27 23:20:33'customer_id=162'}     May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     9) Transactions{, name='null, acc_num=6, account_type='checking', transaction_type='Transfer: Outbound ', amount=100.0, transaction_num=27, timestamp='2021-04-28 01:09:24'customer_id=162'}     May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     10) Transactions{, name='null, acc_num=6, account_type='checking', transaction_type='Transfer: Inbound ', amount=100.0, transaction_num=28, timestamp='2021-04-28 01:09:24'customer_id=162'}     May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     11) Transactions{, name='null, acc_num=6, account_type='checking', transaction_type='Transfer: Outbound ', amount=1000.0, transaction_num=29, timestamp='2021-04-28 01:09:39'customer_id=162'}     May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     12) Transactions{, name='null, acc_num=6, account_type='checking', transaction_type='Transfer: Inbound ', amount=1000.0, transaction_num=30, timestamp='2021-04-28 01:09:39'customer_id=162'}     May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     13) Transactions{, name='null, acc_num=6, account_type='checking', transaction_type='Transfer: Outbound ', amount=200000.0, transaction_num=31, timestamp='2021-04-28 01:09:57'customer_id=162'}     May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     14) Transactions{, name='null, acc_num=6, account_type='checking', transaction_type='Transfer: Inbound ', amount=200000.0, transaction_num=32, timestamp='2021-04-28 01:09:57'customer_id=162'}     May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     15) Transactions{, name='null, acc_num=6, account_type='checking', transaction_type='Transfer: Outbound ', amount=10.0, transaction_num=33, timestamp='2021-04-28 01:17:39'customer_id=162'}     May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     16) Transactions{, name='null, acc_num=6, account_type='checking', transaction_type='Transfer: Inbound ', amount=10.0, transaction_num=34, timestamp='2021-04-28 01:17:39'customer_id=162'}     May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     17) Transactions{, name='null, acc_num=6, account_type='checking', transaction_type='Transfer: Outbound ', amount=100.0, transaction_num=35, timestamp='2021-04-28 01:18:44'customer_id=162'}     May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     18) Transactions{, name='null, acc_num=6, account_type='checking', transaction_type='Transfer: Inbound ', amount=100.0, transaction_num=36, timestamp='2021-04-28 01:18:44'customer_id=162'}     May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     19) Transactions{, name='null, acc_num=6, account_type='checking', transaction_type='Transfer: Outbound ', amount=10000.0, transaction_num=37, timestamp='2021-04-28 01:19:05'customer_id=162'}     May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     20) Transactions{, name='null, acc_num=6, account_type='checking', transaction_type='Transfer: Inbound ', amount=10000.0, transaction_num=38, timestamp='2021-04-28 01:19:05'customer_id=162'}     May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     21) Transactions{, name='null, acc_num=6, account_type='checking', transaction_type='Transfer: Outbound ', amount=100000.0, transaction_num=39, timestamp='2021-04-28 01:20:36'customer_id=162'}     May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     22) Transactions{, name='null, acc_num=6, account_type='savings', transaction_type='Transfer: Inbound ', amount=100000.0, transaction_num=40, timestamp='2021-04-28 01:20:36'customer_id=162'}     May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     23) Transactions{, name='null, acc_num=6, account_type='checking', transaction_type='Transfer: Outbound ', amount=6000.0, transaction_num=41, timestamp='2021-04-28 01:21:19'customer_id=162'}     May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     24) Transactions{, name='null, acc_num=6, account_type='savings', transaction_type='Transfer: Inbound ', amount=6000.0, transaction_num=42, timestamp='2021-04-28 01:21:19'customer_id=162'}     May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     25) Transactions{, name='null, acc_num=6, account_type='savings', transaction_type='Transfer: Outbound ', amount=100.0, transaction_num=43, timestamp='2021-04-28 01:21:35'customer_id=162'}     May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     26) Transactions{, name='null, acc_num=6, account_type='checking', transaction_type='Transfer: Inbound ', amount=100.0, transaction_num=44, timestamp='2021-04-28 01:21:35'customer_id=162'}     May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     27) Transactions{, name='null, acc_num=6, account_type='checking', transaction_type='Transfer: Outbound ', amount=100000.0, transaction_num=45, timestamp='2021-04-28 01:23:37'customer_id=162'}     May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     28) Transactions{, name='null, acc_num=6, account_type='savings', transaction_type='Transfer: Inbound ', amount=100000.0, transaction_num=46, timestamp='2021-04-28 01:23:37'customer_id=162'}     May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     29) Transactions{, name='null, acc_num=6, account_type='savings', transaction_type='Transfer: Outbound ', amount=50000.0, transaction_num=47, timestamp='2021-04-28 01:24:00'customer_id=162'}     May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     30) Transactions{, name='null, acc_num=6, account_type='checking', transaction_type='Transfer: Inbound ', amount=50000.0, transaction_num=48, timestamp='2021-04-28 01:24:00'customer_id=162'}     May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     31) Transactions{, name='null, acc_num=6, account_type='checking', transaction_type='Withdrawl', amount=40000.0, transaction_num=49, timestamp='2021-04-28 02:51:10'customer_id=162'}     May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     32) Transactions{, name='null, acc_num=6, account_type='checking', transaction_type='Withdrawl', amount=420907.0, transaction_num=50, timestamp='2021-04-28 02:51:48'customer_id=162'}     May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     33) Transactions{, name='null, acc_num=6, account_type='checking', transaction_type='Deposit', amount=25.0, transaction_num=51, timestamp='2021-04-28 02:56:32'customer_id=162'}     May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     34) Transactions{, name='null, acc_num=6, account_type='checking', transaction_type='Withdrawl', amount=1.0, transaction_num=52, timestamp='2021-04-28 12:35:22'customer_id=162'}     May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     35) Transactions{, name='null, acc_num=6, account_type='checking', transaction_type='Deposit', amount=10000.0, transaction_num=53, timestamp='2021-04-28 12:35:46'customer_id=162'}     May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Filter Transaction Logs By Your Choice     May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) View All     May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) View By Date     May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) View By Type     May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) View By Customer ID     May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     5) View By Account Number     May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     6) View By Customer Name     May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     7) Exit     May-10-21 Monday EDT 17:43:28
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Enter a Name     May-10-21 Monday EDT 17:43:33
+{INFO} -  [com.smile.bank.log.SmileLog]   -     List of Transactions     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Transactions{, name='mike pencer, acc_num=0, account_type='null', transaction_type='null', amount=0.0, transaction_num=0, timestamp='null'customer_id=151'}     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Transactions{, name='milk tea, acc_num=6, account_type='checking', transaction_type='Deposit', amount=10.0, transaction_num=20, timestamp='2021-04-27 23:13:59'customer_id=162'}     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Transactions{, name='milk tea, acc_num=6, account_type='checking', transaction_type='Withdrawl', amount=100.0, transaction_num=21, timestamp='2021-04-27 23:15:56'customer_id=162'}     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Transactions{, name='milk tea, acc_num=6, account_type='savings', transaction_type='Withdrawl', amount=10.0, transaction_num=22, timestamp='2021-04-27 23:16:31'customer_id=162'}     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     5) Transactions{, name='milk tea, acc_num=6, account_type='checking', transaction_type='Deposit', amount=100.0, transaction_num=23, timestamp='2021-04-27 23:17:42'customer_id=162'}     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     6) Transactions{, name='milk tea, acc_num=6, account_type='savings', transaction_type='Deposit', amount=200.0, transaction_num=24, timestamp='2021-04-27 23:18:02'customer_id=162'}     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     7) Transactions{, name='milk tea, acc_num=6, account_type='checking', transaction_type='Deposit', amount=10000.0, transaction_num=25, timestamp='2021-04-27 23:20:25'customer_id=162'}     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     8) Transactions{, name='milk tea, acc_num=6, account_type='checking', transaction_type='Deposit', amount=500000.0, transaction_num=26, timestamp='2021-04-27 23:20:33'customer_id=162'}     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     9) Transactions{, name='milk tea, acc_num=6, account_type='checking', transaction_type='Transfer: Outbound ', amount=100.0, transaction_num=27, timestamp='2021-04-28 01:09:24'customer_id=162'}     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     10) Transactions{, name='milk tea, acc_num=6, account_type='checking', transaction_type='Transfer: Inbound ', amount=100.0, transaction_num=28, timestamp='2021-04-28 01:09:24'customer_id=162'}     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     11) Transactions{, name='milk tea, acc_num=6, account_type='checking', transaction_type='Transfer: Outbound ', amount=1000.0, transaction_num=29, timestamp='2021-04-28 01:09:39'customer_id=162'}     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     12) Transactions{, name='milk tea, acc_num=6, account_type='checking', transaction_type='Transfer: Inbound ', amount=1000.0, transaction_num=30, timestamp='2021-04-28 01:09:39'customer_id=162'}     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     13) Transactions{, name='milk tea, acc_num=6, account_type='checking', transaction_type='Transfer: Outbound ', amount=200000.0, transaction_num=31, timestamp='2021-04-28 01:09:57'customer_id=162'}     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     14) Transactions{, name='milk tea, acc_num=6, account_type='checking', transaction_type='Transfer: Inbound ', amount=200000.0, transaction_num=32, timestamp='2021-04-28 01:09:57'customer_id=162'}     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     15) Transactions{, name='milk tea, acc_num=6, account_type='checking', transaction_type='Transfer: Outbound ', amount=10.0, transaction_num=33, timestamp='2021-04-28 01:17:39'customer_id=162'}     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     16) Transactions{, name='milk tea, acc_num=6, account_type='checking', transaction_type='Transfer: Inbound ', amount=10.0, transaction_num=34, timestamp='2021-04-28 01:17:39'customer_id=162'}     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     17) Transactions{, name='milk tea, acc_num=6, account_type='checking', transaction_type='Transfer: Outbound ', amount=100.0, transaction_num=35, timestamp='2021-04-28 01:18:44'customer_id=162'}     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     18) Transactions{, name='milk tea, acc_num=6, account_type='checking', transaction_type='Transfer: Inbound ', amount=100.0, transaction_num=36, timestamp='2021-04-28 01:18:44'customer_id=162'}     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     19) Transactions{, name='milk tea, acc_num=6, account_type='checking', transaction_type='Deposit', amount=10.0, transaction_num=19, timestamp='2021-04-27 23:13:50'customer_id=162'}     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     20) Transactions{, name='milk tea, acc_num=6, account_type='checking', transaction_type='Transfer: Inbound ', amount=10000.0, transaction_num=38, timestamp='2021-04-28 01:19:05'customer_id=162'}     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     21) Transactions{, name='milk tea, acc_num=6, account_type='checking', transaction_type='Transfer: Outbound ', amount=100000.0, transaction_num=39, timestamp='2021-04-28 01:20:36'customer_id=162'}     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     22) Transactions{, name='milk tea, acc_num=6, account_type='savings', transaction_type='Transfer: Inbound ', amount=100000.0, transaction_num=40, timestamp='2021-04-28 01:20:36'customer_id=162'}     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     23) Transactions{, name='milk tea, acc_num=6, account_type='checking', transaction_type='Transfer: Outbound ', amount=6000.0, transaction_num=41, timestamp='2021-04-28 01:21:19'customer_id=162'}     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     24) Transactions{, name='milk tea, acc_num=6, account_type='savings', transaction_type='Transfer: Inbound ', amount=6000.0, transaction_num=42, timestamp='2021-04-28 01:21:19'customer_id=162'}     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     25) Transactions{, name='milk tea, acc_num=6, account_type='savings', transaction_type='Transfer: Outbound ', amount=100.0, transaction_num=43, timestamp='2021-04-28 01:21:35'customer_id=162'}     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     26) Transactions{, name='milk tea, acc_num=6, account_type='checking', transaction_type='Transfer: Inbound ', amount=100.0, transaction_num=44, timestamp='2021-04-28 01:21:35'customer_id=162'}     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     27) Transactions{, name='milk tea, acc_num=6, account_type='checking', transaction_type='Transfer: Outbound ', amount=100000.0, transaction_num=45, timestamp='2021-04-28 01:23:37'customer_id=162'}     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     28) Transactions{, name='milk tea, acc_num=6, account_type='savings', transaction_type='Transfer: Inbound ', amount=100000.0, transaction_num=46, timestamp='2021-04-28 01:23:37'customer_id=162'}     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     29) Transactions{, name='milk tea, acc_num=6, account_type='savings', transaction_type='Transfer: Outbound ', amount=50000.0, transaction_num=47, timestamp='2021-04-28 01:24:00'customer_id=162'}     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     30) Transactions{, name='milk tea, acc_num=6, account_type='checking', transaction_type='Transfer: Inbound ', amount=50000.0, transaction_num=48, timestamp='2021-04-28 01:24:00'customer_id=162'}     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     31) Transactions{, name='milk tea, acc_num=6, account_type='checking', transaction_type='Withdrawl', amount=40000.0, transaction_num=49, timestamp='2021-04-28 02:51:10'customer_id=162'}     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     32) Transactions{, name='milk tea, acc_num=6, account_type='checking', transaction_type='Withdrawl', amount=420907.0, transaction_num=50, timestamp='2021-04-28 02:51:48'customer_id=162'}     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     33) Transactions{, name='milk tea, acc_num=6, account_type='checking', transaction_type='Deposit', amount=25.0, transaction_num=51, timestamp='2021-04-28 02:56:32'customer_id=162'}     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     34) Transactions{, name='milk tea, acc_num=6, account_type='checking', transaction_type='Withdrawl', amount=1.0, transaction_num=52, timestamp='2021-04-28 12:35:22'customer_id=162'}     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     35) Transactions{, name='milk tea, acc_num=6, account_type='checking', transaction_type='Deposit', amount=10000.0, transaction_num=53, timestamp='2021-04-28 12:35:46'customer_id=162'}     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     36) Transactions{, name='milk tea, acc_num=6, account_type='checking', transaction_type='Transfer: Outbound ', amount=10000.0, transaction_num=37, timestamp='2021-04-28 01:19:05'customer_id=162'}     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Filter Transaction Logs By Your Choice     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) View All     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) View By Date     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) View By Type     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) View By Customer ID     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     5) View By Account Number     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     6) View By Customer Name     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     7) Exit     May-10-21 Monday EDT 17:43:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Exiting..     May-10-21 Monday EDT 17:43:40
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:43:40
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Welcome! Please make a selection     May-10-21 Monday EDT 17:43:40
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:43:40
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Work: Approve or Deny New Accounts     May-10-21 Monday EDT 17:43:40
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) View Account by ID     May-10-21 Monday EDT 17:43:40
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) View Logs     May-10-21 Monday EDT 17:43:40
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Logout     May-10-21 Monday EDT 17:43:40
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Logging out...     May-10-21 Monday EDT 17:43:41
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:43:41
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:43:41
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Please Login to your Account or Register!     May-10-21 Monday EDT 17:43:41
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:43:41
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Employee Login     May-10-21 Monday EDT 17:43:41
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Customer Login     May-10-21 Monday EDT 17:43:41
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Register for an Account     May-10-21 Monday EDT 17:43:41
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Exit App     May-10-21 Monday EDT 17:43:41
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:43:41
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Type and enter the number for your selection     May-10-21 Monday EDT 17:43:41
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:43:41
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Awaiting Your Response:     May-10-21 Monday EDT 17:43:41
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Please Login with your Credentials     May-10-21 Monday EDT 17:43:43
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:43:43
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Enter your Email:      May-10-21 Monday EDT 17:43:43
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Enter your Password:      May-10-21 Monday EDT 17:43:46
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Login Success!     May-10-21 Monday EDT 17:43:49
+{INFO} -  [com.smile.bank.log.SmileLog]   -     ID is  162     May-10-21 Monday EDT 17:43:49
+{INFO} -  [com.smile.bank.log.SmileLog]   -     User: milk@tea.com     May-10-21 Monday EDT 17:43:49
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Welcome! Please make a selection     May-10-21 Monday EDT 17:43:49
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:43:49
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Open a new Checkings or Savings Account     May-10-21 Monday EDT 17:43:49
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Withdrawl     May-10-21 Monday EDT 17:43:49
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Deposit     May-10-21 Monday EDT 17:43:49
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Send Money     May-10-21 Monday EDT 17:43:49
+{INFO} -  [com.smile.bank.log.SmileLog]   -     5) View Balance     May-10-21 Monday EDT 17:43:49
+{INFO} -  [com.smile.bank.log.SmileLog]   -     6) Logout     May-10-21 Monday EDT 17:43:49
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:43:52
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Will you be Withdrawing from Your Checking or Savings Account?     May-10-21 Monday EDT 17:43:52
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Checking     May-10-21 Monday EDT 17:43:52
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Savings     May-10-21 Monday EDT 17:43:52
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Exit     May-10-21 Monday EDT 17:43:52
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:43:52
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Please select an account. You cannot withdraw from pending accounts     May-10-21 Monday EDT 17:43:53
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Account{balance=10024.0, customer_id=162, acc_num=6, account_status='Approved', account_type='checking'}     May-10-21 Monday EDT 17:43:53
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Account{balance=20000.0, customer_id=162, acc_num=19, account_status='Pending', account_type='checking'}     May-10-21 Monday EDT 17:43:53
+{INFO} -  [com.smile.bank.log.SmileLog]   -     0) Cancel     May-10-21 Monday EDT 17:43:53
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Sorry, no transactions for Pending Accounts     May-10-21 Monday EDT 17:43:58
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Please select an account. You cannot withdraw from pending accounts     May-10-21 Monday EDT 17:43:58
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Account{balance=10024.0, customer_id=162, acc_num=6, account_status='Approved', account_type='checking'}     May-10-21 Monday EDT 17:43:58
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Account{balance=20000.0, customer_id=162, acc_num=19, account_status='Pending', account_type='checking'}     May-10-21 Monday EDT 17:43:58
+{INFO} -  [com.smile.bank.log.SmileLog]   -     0) Cancel     May-10-21 Monday EDT 17:43:58
+{INFO} -  [com.smile.bank.log.SmileLog]   -     How much would you like to withdraw?      May-10-21 Monday EDT 17:44:02
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:44:03
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Will you be Withdrawing from Your Checking or Savings Account?     May-10-21 Monday EDT 17:44:03
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Checking     May-10-21 Monday EDT 17:44:03
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Savings     May-10-21 Monday EDT 17:44:03
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Exit     May-10-21 Monday EDT 17:44:03
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:44:03
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Please select an account. You cannot withdraw from pending accounts     May-10-21 Monday EDT 17:44:06
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Account{balance=10014.0, customer_id=162, acc_num=6, account_status='Approved', account_type='checking'}     May-10-21 Monday EDT 17:44:06
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Account{balance=20000.0, customer_id=162, acc_num=19, account_status='Pending', account_type='checking'}     May-10-21 Monday EDT 17:44:06
+{INFO} -  [com.smile.bank.log.SmileLog]   -     0) Cancel     May-10-21 Monday EDT 17:44:06
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:44:09
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Will you be Withdrawing from Your Checking or Savings Account?     May-10-21 Monday EDT 17:44:09
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Checking     May-10-21 Monday EDT 17:44:09
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Savings     May-10-21 Monday EDT 17:44:09
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Exit     May-10-21 Monday EDT 17:44:09
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:44:09
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Going Back...     May-10-21 Monday EDT 17:44:10
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:44:10
+{INFO} -  [com.smile.bank.log.SmileLog]   -     User: milk@tea.com     May-10-21 Monday EDT 17:44:10
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Welcome! Please make a selection     May-10-21 Monday EDT 17:44:10
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:44:10
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Open a new Checkings or Savings Account     May-10-21 Monday EDT 17:44:10
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Withdrawl     May-10-21 Monday EDT 17:44:10
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Deposit     May-10-21 Monday EDT 17:44:10
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Send Money     May-10-21 Monday EDT 17:44:10
+{INFO} -  [com.smile.bank.log.SmileLog]   -     5) View Balance     May-10-21 Monday EDT 17:44:10
+{INFO} -  [com.smile.bank.log.SmileLog]   -     6) Logout     May-10-21 Monday EDT 17:44:10
+{ERROR} -  [com.smile.bank.log.SmileLog]   -     Error, Invalid Selction. Please Try Again:      May-10-21 Monday EDT 17:44:18
+{INFO} -  [com.smile.bank.log.SmileLog]   -     User: milk@tea.com     May-10-21 Monday EDT 17:44:18
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Welcome! Please make a selection     May-10-21 Monday EDT 17:44:18
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:44:18
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Open a new Checkings or Savings Account     May-10-21 Monday EDT 17:44:18
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Withdrawl     May-10-21 Monday EDT 17:44:18
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Deposit     May-10-21 Monday EDT 17:44:18
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Send Money     May-10-21 Monday EDT 17:44:18
+{INFO} -  [com.smile.bank.log.SmileLog]   -     5) View Balance     May-10-21 Monday EDT 17:44:18
+{INFO} -  [com.smile.bank.log.SmileLog]   -     6) Logout     May-10-21 Monday EDT 17:44:18
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:44:21
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Will you be Depositing to Your Checking or Savings Account?     May-10-21 Monday EDT 17:44:21
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Checking     May-10-21 Monday EDT 17:44:21
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Savings     May-10-21 Monday EDT 17:44:21
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Exit     May-10-21 Monday EDT 17:44:21
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:44:21
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Please select an account. You cannot deposit to pending accounts     May-10-21 Monday EDT 17:44:22
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Account{balance=10014.0, customer_id=162, acc_num=6, account_status='Approved', account_type='checking'}     May-10-21 Monday EDT 17:44:22
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Account{balance=20000.0, customer_id=162, acc_num=19, account_status='Pending', account_type='checking'}     May-10-21 Monday EDT 17:44:22
+{INFO} -  [com.smile.bank.log.SmileLog]   -     0) Cancel     May-10-21 Monday EDT 17:44:22
+{INFO} -  [com.smile.bank.log.SmileLog]   -     How much would you like to Deposit?      May-10-21 Monday EDT 17:44:23
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:44:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Will you be Depositing to Your Checking or Savings Account?     May-10-21 Monday EDT 17:44:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Checking     May-10-21 Monday EDT 17:44:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Savings     May-10-21 Monday EDT 17:44:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Exit     May-10-21 Monday EDT 17:44:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:44:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Please select an account. You cannot deposit to pending accounts     May-10-21 Monday EDT 17:44:27
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Account{balance=20000.0, customer_id=162, acc_num=19, account_status='Pending', account_type='checking'}     May-10-21 Monday EDT 17:44:27
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Account{balance=1.0000000010014E13, customer_id=162, acc_num=6, account_status='Approved', account_type='checking'}     May-10-21 Monday EDT 17:44:27
+{INFO} -  [com.smile.bank.log.SmileLog]   -     0) Cancel     May-10-21 Monday EDT 17:44:27
+{INFO} -  [com.smile.bank.log.SmileLog]   -     How much would you like to Deposit?      May-10-21 Monday EDT 17:44:32
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Invalid amount     May-10-21 Monday EDT 17:44:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:44:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Will you be Depositing to Your Checking or Savings Account?     May-10-21 Monday EDT 17:44:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Checking     May-10-21 Monday EDT 17:44:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Savings     May-10-21 Monday EDT 17:44:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Exit     May-10-21 Monday EDT 17:44:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:44:34
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Going Back...     May-10-21 Monday EDT 17:44:37
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:44:37
+{INFO} -  [com.smile.bank.log.SmileLog]   -     User: milk@tea.com     May-10-21 Monday EDT 17:44:37
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Welcome! Please make a selection     May-10-21 Monday EDT 17:44:37
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:44:37
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Open a new Checkings or Savings Account     May-10-21 Monday EDT 17:44:37
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Withdrawl     May-10-21 Monday EDT 17:44:37
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Deposit     May-10-21 Monday EDT 17:44:37
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Send Money     May-10-21 Monday EDT 17:44:37
+{INFO} -  [com.smile.bank.log.SmileLog]   -     5) View Balance     May-10-21 Monday EDT 17:44:37
+{INFO} -  [com.smile.bank.log.SmileLog]   -     6) Logout     May-10-21 Monday EDT 17:44:37
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:44:38
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Will you be Withdrawing from Your Checking or Savings Account?     May-10-21 Monday EDT 17:44:38
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Checking     May-10-21 Monday EDT 17:44:38
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Savings     May-10-21 Monday EDT 17:44:38
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Exit     May-10-21 Monday EDT 17:44:38
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:44:38
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Please select an account. You cannot withdraw from pending accounts     May-10-21 Monday EDT 17:44:39
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Account{balance=20000.0, customer_id=162, acc_num=19, account_status='Pending', account_type='checking'}     May-10-21 Monday EDT 17:44:39
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Account{balance=1.0000000010014E13, customer_id=162, acc_num=6, account_status='Approved', account_type='checking'}     May-10-21 Monday EDT 17:44:39
+{INFO} -  [com.smile.bank.log.SmileLog]   -     0) Cancel     May-10-21 Monday EDT 17:44:39
+{INFO} -  [com.smile.bank.log.SmileLog]   -     How much would you like to withdraw?      May-10-21 Monday EDT 17:44:40
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Sorry -10-100000 is not an acceptable input     May-10-21 Monday EDT 17:44:45
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Invalid amount     May-10-21 Monday EDT 17:44:45
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:44:45
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Will you be Withdrawing from Your Checking or Savings Account?     May-10-21 Monday EDT 17:44:45
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Checking     May-10-21 Monday EDT 17:44:45
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Savings     May-10-21 Monday EDT 17:44:45
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Exit     May-10-21 Monday EDT 17:44:45
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:44:45
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Please select an account. You cannot withdraw from pending accounts     May-10-21 Monday EDT 17:44:47
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Account{balance=20000.0, customer_id=162, acc_num=19, account_status='Pending', account_type='checking'}     May-10-21 Monday EDT 17:44:47
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Account{balance=1.0000000010014E13, customer_id=162, acc_num=6, account_status='Approved', account_type='checking'}     May-10-21 Monday EDT 17:44:47
+{INFO} -  [com.smile.bank.log.SmileLog]   -     0) Cancel     May-10-21 Monday EDT 17:44:47
+{INFO} -  [com.smile.bank.log.SmileLog]   -     How much would you like to withdraw?      May-10-21 Monday EDT 17:44:48
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:44:50
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Will you be Withdrawing from Your Checking or Savings Account?     May-10-21 Monday EDT 17:44:50
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Checking     May-10-21 Monday EDT 17:44:50
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Savings     May-10-21 Monday EDT 17:44:50
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Exit     May-10-21 Monday EDT 17:44:50
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:44:50
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Please select an account. You cannot withdraw from pending accounts     May-10-21 Monday EDT 17:44:52
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Account{balance=20000.0, customer_id=162, acc_num=19, account_status='Pending', account_type='checking'}     May-10-21 Monday EDT 17:44:52
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Account{balance=9.990000010014E12, customer_id=162, acc_num=6, account_status='Approved', account_type='checking'}     May-10-21 Monday EDT 17:44:52
+{INFO} -  [com.smile.bank.log.SmileLog]   -     0) Cancel     May-10-21 Monday EDT 17:44:52
+{INFO} -  [com.smile.bank.log.SmileLog]   -     How much would you like to withdraw?      May-10-21 Monday EDT 17:44:54
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Insufficient funds!     May-10-21 Monday EDT 17:44:59
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:44:59
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Will you be Withdrawing from Your Checking or Savings Account?     May-10-21 Monday EDT 17:44:59
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Checking     May-10-21 Monday EDT 17:44:59
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Savings     May-10-21 Monday EDT 17:44:59
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Exit     May-10-21 Monday EDT 17:44:59
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:44:59
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Please select an account. You cannot withdraw from pending accounts     May-10-21 Monday EDT 17:45:01
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Account{balance=20000.0, customer_id=162, acc_num=19, account_status='Pending', account_type='checking'}     May-10-21 Monday EDT 17:45:01
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Account{balance=9.990000010014E12, customer_id=162, acc_num=6, account_status='Approved', account_type='checking'}     May-10-21 Monday EDT 17:45:01
+{INFO} -  [com.smile.bank.log.SmileLog]   -     0) Cancel     May-10-21 Monday EDT 17:45:01
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Invalid Entry     May-10-21 Monday EDT 17:45:03
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Please select an account. You cannot withdraw from pending accounts     May-10-21 Monday EDT 17:45:03
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Account{balance=20000.0, customer_id=162, acc_num=19, account_status='Pending', account_type='checking'}     May-10-21 Monday EDT 17:45:03
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Account{balance=9.990000010014E12, customer_id=162, acc_num=6, account_status='Approved', account_type='checking'}     May-10-21 Monday EDT 17:45:03
+{INFO} -  [com.smile.bank.log.SmileLog]   -     0) Cancel     May-10-21 Monday EDT 17:45:03
+{INFO} -  [com.smile.bank.log.SmileLog]   -     How much would you like to withdraw?      May-10-21 Monday EDT 17:45:04
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Insufficient funds!     May-10-21 Monday EDT 17:45:11
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:45:11
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Will you be Withdrawing from Your Checking or Savings Account?     May-10-21 Monday EDT 17:45:11
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Checking     May-10-21 Monday EDT 17:45:11
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Savings     May-10-21 Monday EDT 17:45:11
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Exit     May-10-21 Monday EDT 17:45:11
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:45:11
+{ERROR} -  [com.smile.bank.log.SmileLog]   -     Error, Invalid Selction. Please Try Again:      May-10-21 Monday EDT 17:45:13
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:45:13
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Will you be Withdrawing from Your Checking or Savings Account?     May-10-21 Monday EDT 17:45:13
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Checking     May-10-21 Monday EDT 17:45:13
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Savings     May-10-21 Monday EDT 17:45:13
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Exit     May-10-21 Monday EDT 17:45:13
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:45:13
+{ERROR} -  [com.smile.bank.log.SmileLog]   -     Error, Invalid Selction. Please Try Again:      May-10-21 Monday EDT 17:45:21
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:45:21
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Will you be Withdrawing from Your Checking or Savings Account?     May-10-21 Monday EDT 17:45:21
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Checking     May-10-21 Monday EDT 17:45:21
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Savings     May-10-21 Monday EDT 17:45:21
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Exit     May-10-21 Monday EDT 17:45:21
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:45:21
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Going Back...     May-10-21 Monday EDT 17:45:22
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:45:22
+{INFO} -  [com.smile.bank.log.SmileLog]   -     User: milk@tea.com     May-10-21 Monday EDT 17:45:22
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Welcome! Please make a selection     May-10-21 Monday EDT 17:45:22
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:45:22
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Open a new Checkings or Savings Account     May-10-21 Monday EDT 17:45:22
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Withdrawl     May-10-21 Monday EDT 17:45:22
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Deposit     May-10-21 Monday EDT 17:45:22
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Send Money     May-10-21 Monday EDT 17:45:22
+{INFO} -  [com.smile.bank.log.SmileLog]   -     5) View Balance     May-10-21 Monday EDT 17:45:22
+{INFO} -  [com.smile.bank.log.SmileLog]   -     6) Logout     May-10-21 Monday EDT 17:45:22
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Logging out...     May-10-21 Monday EDT 17:45:24
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:45:24
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:45:24
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Please Login to your Account or Register!     May-10-21 Monday EDT 17:45:24
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:45:24
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Employee Login     May-10-21 Monday EDT 17:45:24
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Customer Login     May-10-21 Monday EDT 17:45:24
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Register for an Account     May-10-21 Monday EDT 17:45:24
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Exit App     May-10-21 Monday EDT 17:45:24
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:45:24
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Type and enter the number for your selection     May-10-21 Monday EDT 17:45:24
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:45:24
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Awaiting Your Response:     May-10-21 Monday EDT 17:45:24
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Thank You for using Smile Bank! Goodbye!     May-10-21 Monday EDT 17:45:25
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Hello! Welcome to Smile Bank!     May-10-21 Monday EDT 17:45:37
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:45:37
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Please Login to your Account or Register!     May-10-21 Monday EDT 17:45:37
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:45:37
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Employee Login     May-10-21 Monday EDT 17:45:37
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Customer Login     May-10-21 Monday EDT 17:45:37
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Register for an Account     May-10-21 Monday EDT 17:45:37
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Exit App     May-10-21 Monday EDT 17:45:37
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:45:37
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Type and enter the number for your selection     May-10-21 Monday EDT 17:45:37
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:45:37
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Awaiting Your Response:     May-10-21 Monday EDT 17:45:37
+{ERROR} -  [com.smile.bank.log.SmileLog]   -     Error, Invalid Selction. Please Try Again:      May-10-21 Monday EDT 17:45:43
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:45:43
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Please Login to your Account or Register!     May-10-21 Monday EDT 17:45:43
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:45:43
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Employee Login     May-10-21 Monday EDT 17:45:43
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Customer Login     May-10-21 Monday EDT 17:45:43
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Register for an Account     May-10-21 Monday EDT 17:45:43
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Exit App     May-10-21 Monday EDT 17:45:43
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:45:43
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Type and enter the number for your selection     May-10-21 Monday EDT 17:45:43
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:45:43
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Awaiting Your Response:     May-10-21 Monday EDT 17:45:43
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Hello! Welcome to Smile Bank!     May-10-21 Monday EDT 17:46:44
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:46:44
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Please Login to your Account or Register!     May-10-21 Monday EDT 17:46:44
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:46:44
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Employee Login     May-10-21 Monday EDT 17:46:44
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Customer Login     May-10-21 Monday EDT 17:46:44
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Register for an Account     May-10-21 Monday EDT 17:46:44
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Exit App     May-10-21 Monday EDT 17:46:44
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:46:44
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Type and enter the number for your selection     May-10-21 Monday EDT 17:46:44
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:46:44
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Awaiting Your Response:     May-10-21 Monday EDT 17:46:44
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Hello! Welcome to Smile Bank!     May-10-21 Monday EDT 17:47:00
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:47:00
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Please Login to your Account or Register!     May-10-21 Monday EDT 17:47:00
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:47:00
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Employee Login     May-10-21 Monday EDT 17:47:00
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Customer Login     May-10-21 Monday EDT 17:47:00
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Register for an Account     May-10-21 Monday EDT 17:47:00
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Exit App     May-10-21 Monday EDT 17:47:00
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:47:00
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Type and enter the number for your selection     May-10-21 Monday EDT 17:47:00
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:47:00
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Awaiting Your Response:     May-10-21 Monday EDT 17:47:00
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Thank you for choosing Smile Bank! Please enter the requested information to create your account     May-10-21 Monday EDT 17:47:05
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:47:05
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Enter your FULL NAME:      May-10-21 Monday EDT 17:47:05
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Enter your SSN (9 digit number):      May-10-21 Monday EDT 17:47:06
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Customer Creation Failed!     May-10-21 Monday EDT 17:47:06
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Reason Failed:  is not a valid name.     May-10-21 Monday EDT 17:47:06
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:47:06
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:47:06
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Please Login to your Account or Register!     May-10-21 Monday EDT 17:47:06
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:47:06
+{INFO} -  [com.smile.bank.log.SmileLog]   -     1) Employee Login     May-10-21 Monday EDT 17:47:06
+{INFO} -  [com.smile.bank.log.SmileLog]   -     2) Customer Login     May-10-21 Monday EDT 17:47:06
+{INFO} -  [com.smile.bank.log.SmileLog]   -     3) Register for an Account     May-10-21 Monday EDT 17:47:06
+{INFO} -  [com.smile.bank.log.SmileLog]   -     4) Exit App     May-10-21 Monday EDT 17:47:06
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:47:06
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Type and enter the number for your selection     May-10-21 Monday EDT 17:47:06
+{INFO} -  [com.smile.bank.log.SmileLog]   -          May-10-21 Monday EDT 17:47:06
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Awaiting Your Response:     May-10-21 Monday EDT 17:47:06
+{INFO} -  [com.smile.bank.log.SmileLog]   -     Thank You for using Smile Bank! Goodbye!     May-10-21 Monday EDT 17:47:13

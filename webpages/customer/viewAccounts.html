@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+</html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Smile Bank: View Accounts</title>
+    <link rel="stylesheet" type="text/css" href="viewAccounts.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+</head>
+
+<body>
+    <div class="container-fluid p-3 bg-dark text-white">
+
+        <h1>View Accounts</h1>
+        <button class="btn btn-outline-light bg-dark" input type="submit" onclick="back()">Go Back</button>
+        <img class='rounded' height='100px' width='100px' src='../smile.gif' />
+        <button class="btn btn-outline-light bg-dark" input type="submit" onclick="logout()">Logout</button>
+        <br>
+    </div>
+
+    <div class="container-fluid p-3 bg-danger text-white">
+        <form method="get" action="" onsubmit="validator();return false" id="form1">
+            <h3>View any of Your Pending or Approved Accounts</h3>
+            <br><br>
+            <p>Select the Account Type</p>
+            <button class="btn btn-outline-light bg-danger" type="submit" id="checking" value="checking"
+                onclick="getAccounts(this.id)">Checking</button>&nbsp;&nbsp;&nbsp;
+            <button class="btn btn-outline-light bg-danger" type="submit" id="savings" value="savings"
+                onclick="getAccounts(this.id)">Savings </button>
+            <br></br>
+            <div class="container" id="results"></div>
+            <br>
+        </form>
+    </div>
+    
+
+    <script src=viewAccounts.js></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+
+</html>

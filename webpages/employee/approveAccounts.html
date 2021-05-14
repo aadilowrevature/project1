@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+</html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Smile Bank Employee Approve Accounts</title>
+    <link rel="stylesheet" type="text/css" href="approveAccounts.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+</head>
+
+<body>
+    <div class="container-fluid p-3 bg-dark text-white">
+
+        <h1>Time to Work</h1>
+        <p>Wage: $0.75 per Hour</p>
+        <button class="btn btn-outline-light bg-dark" input type="submit" onclick="back()">Go Back</button>
+        <img class='rounded' height='100px' width='100px' src='../smile.gif' />
+        <button class="btn btn-outline-light bg-dark" input type="submit" onclick="logout()">Logout</button>
+        <br>
+
+    </div>
+
+    <div class="container-fluid p-3 bg-warning text-white">
+
+        <br><br>
+        <button class="btn btn-outline-light bg-dark" id="checking" value="checking" input type="submit" onclick="viewPendingAccounts(this.id)">Approve Checking</button>
+        
+        <button class="btn btn-outline-light bg-dark" id="savings" value="savings" input type="submit"onclick="viewPendingAccounts(this.id)">Approve Savings</button>
+
+        <br></br>
+        <div class="container" id="results"></div>
+        <br>
+
+
+    </div>
+    <script src=approveAccounts.js></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+
+</html>

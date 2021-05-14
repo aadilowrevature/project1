@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.smile.bank.functions.dao.impl.OpenAccountDAOImplTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-05-14T13:53:46" hostname="LAPTOP-CQANB9I3" time="0.015">
+  <properties/>
+  <testcase name="testSavingsAccountFailed()" classname="com.smile.bank.functions.dao.impl.OpenAccountDAOImplTest" time="0.011"/>
+  <testcase name="testCheckingAccountFailed()" classname="com.smile.bank.functions.dao.impl.OpenAccountDAOImplTest" time="0.001"/>
+  <testcase name="testSavingsAccountOpened()" classname="com.smile.bank.functions.dao.impl.OpenAccountDAOImplTest" time="0.001"/>
+  <testcase name="testCheckingAccountOpened()" classname="com.smile.bank.functions.dao.impl.OpenAccountDAOImplTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
