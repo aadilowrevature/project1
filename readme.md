@@ -49,7 +49,14 @@ Once logged into the system, the following dashboards are shown for each user ty
 
 ## Usage
 
-Currently a user cannot effectively deploy the backend part of the application if they do not have a database model which is equal to the one I designed and utilized in the project.
+Without following the setup, a user cannot effectively deploy the backend part of the application if they do not have a database model which is equal to the one I designed and utilized in the project. The only HTML pages a user can explore in this case will be the unauthenticated pages.
 
-The only HTML pages a user can currently explore will be the unauthenticated pages.
+Once setup is complete, a user should be able to interact normally with the system.
+
+First step is to complete registration forms. 
+
+Second is to login to newly created accounts.
+
+Third is to operate the system however user sees fit.
+
 
