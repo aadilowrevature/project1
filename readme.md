@@ -1,5 +1,7 @@
 # Smile Bank
 
+<img src="./webpages/smile.gif" width="300" height="300" />
+
 ## Project Description
 
 This project is a modified version of the Revature Online Banking App.
